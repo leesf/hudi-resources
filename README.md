@@ -1,1 +1,1 @@
-# hudi-resources
+汇总Apache Hudi相关学习资源
