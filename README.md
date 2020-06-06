@@ -1,3 +1,7 @@
+欢迎关注微信公众号：ApacheHudi
+
+![微信公众号](https://github.com/leesf/hudi-resources/blob/master/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.gif)
+
 ## Apache Hudi社区
 
 [快速参与下一代数据湖顶级项目ApacheHudi](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484278&amp;idx=1&amp;sn=59f916b6e6a7dfcd36ee88fca21c5442&amp;chksm=e81f5600df68df16e27ad013295eaf858a5d141d55659ccc9dd42817ec34e21b7c34252878e8&token=1688466117&lang=zh_CN#rd)
