@@ -12,6 +12,8 @@
 
 [首次！Apache Hudi在Apache官方Blog出镜](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484749&amp;idx=1&amp;sn=85d2f9b0cea440aaf4504538d1105729&amp;chksm=e81f503bdf68d92d6732df3cdb6f28b5553387091ff7607ed891fdce408387dde07683dec196&token=1688466117&lang=zh_CN#rd)
 
+[一个月增长4倍！数据揭示当下增长势头最猛的开源数据湖框架！](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&mid=2247484871&idx=1&sn=8cf1bbc4fed470f0d52c275e150ce273&chksm=e81f50b1df68d9a7cd577a3f99de08b80e57dab13e6011a01e292bb03fc6b7ecdf039a6248b5&token=1889807326&lang=zh_CN#rd)
+
 [官宣！ASF官方正式宣布Apache Hudi成为顶级项目](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484935&amp;idx=1&amp;sn=328222565584a2f3fd5f2ad650bc02bc&amp;chksm=e81f5371df68da672e4cccbad0aea046177696199e6a3330c814d0c2e231d9955d38c5fccbc6&token=1688466117&lang=zh_CN#rd)
 
 ## Apache Hudi入门系列
@@ -35,8 +37,12 @@
 
 [Apache Hudi与Delta Lake对比](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484636&amp;idx=1&amp;sn=f219238e88aa0236a03c4a8136f558c8&amp;chksm=e81f51aadf68d8bc3d16c80fd5d5bc4b20dcda71754ef90b82984ac781134d9734f3f5db319f&token=1688466117&lang=zh_CN#rd)
 
+[Apache Hudi 设计与架构最强解读](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&mid=2247484778&idx=1&sn=1a52540f24c641ac17ec647fa241fbe9&chksm=e81f501cdf68d90a35e0277bc053274d8a2b0f36c639949c5e87ff7256b7b6e07388bbd39bf5&token=1889807326&lang=zh_CN#rd)
+
 ## Apache Hudi落地解读
 [Apache Hudi：统一批和近实时分析的存储和服务](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484493&amp;idx=1&amp;sn=66ba1de318960b2ea50f7db95aea3f4b&amp;chksm=e81f513bdf68d82d9b656feb267787c1b74cbc03499ffddecf18ece9f6f15cc9678b7c80b74f&token=1688466117&lang=zh_CN#rd)
+
+[贝壳找房利用Hudi构建准实时数仓的实践与挑战](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&mid=2247484149&idx=1&sn=3f222357c7ad844291d0fa29c1c0956a&chksm=e81f5783df68de95e19753910fa793399385217a39312885e48ab78e83d3e9f00689e9194928&token=1889807326&lang=zh_CN#rd)
 
 [Uber如何使用Apache Hudi近实时分析全球网络](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484384&amp;idx=1&amp;sn=4237093d9405c81f457a3e3886b1178c&amp;chksm=e81f5696df68df8074bc23fc5c8cd4a10e062ce5d9592781f0a885a94fdf210644ae4b0db156&token=1688466117&lang=zh_CN#rd)
 
@@ -67,11 +73,15 @@
 
 [实战|将Apache Hudi数据集写入阿里云OSS](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484795&amp;idx=1&amp;sn=7188640c658e671f9228a3b4184c1d94&amp;chksm=e81f500ddf68d91b506ac2543cfd2cac0227c1df06170e26a43352056f56a3d43585817424aa&token=1688466117&lang=zh_CN#rd)
 
+[实战！使用Apache Hudi DeltaStreamer将数据流写入OSS](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&mid=2247484869&idx=2&sn=bb6f1f456f88bc253922a59010370177&chksm=e81f50b3df68d9a514d346e9cd2ff2512d9ef7d2339b1c4011701f41a41687f45a5cab06cd85&token=1889807326&lang=zh_CN#rd)
+
 [使用Amazon EMR和Apache Hudi在S3上插入，更新，删除数据](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484067&amp;idx=1&amp;sn=8bd4962eb228f43bce04195131a67fb5&amp;chksm=e81f57d5df68dec336f1ba5c294b891abf1959da967797788272cb434b7b3a6e4531c60e05a0&token=1688466117&lang=zh_CN#rd)
 
 [官宣！Apache Hudi与AWS Database Migration Service深度集成](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484556&amp;idx=1&amp;sn=1cd85bfaede42c5ba13623a65bd66390&amp;chksm=e81f51fadf68d8ec19c79bae0dcecf87095c4d02863184fce4ab7db950195211c40bdf3fcc98&token=1688466117&lang=zh_CN#rd)
 
 [最强指南！数据湖Apache Hudi、Iceberg、Delta环境搭建](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484688&amp;idx=1&amp;sn=2b337511eb0f6761372c3d83638d3464&amp;chksm=e81f5066df68d97005e4f154c0f7ccac2fc6701fab98c1820570f84f2459c1d301b5b54b68a2&token=1688466117&lang=zh_CN#rd)
+
+[实战 | 将Kafka流式数据摄取至Hudi](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&mid=2247484810&idx=1&sn=b844d07c4497ed98d269772ab92538e0&chksm=e81f50fcdf68d9eacc28edb9e597f6bd8cadef96db7dcdbb7fa421c93e5ced0fbd4e268216f1&token=1889807326&lang=zh_CN#rd)
 
 [Apache Hudi数据备份与转储利器：HoodieSnapshotExporter](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484758&amp;idx=1&amp;sn=eeed11357e072c21d205db7c2d638ea0&amp;chksm=e81f5020df68d936ed24d6a05c9b6874ea6fa809960b16950fa7c8d0d19170e72e14f74ab49d&token=1688466117&lang=zh_CN#rd)
 
@@ -85,6 +95,9 @@
 [Data Lake架构揭秘](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484655&amp;idx=1&amp;sn=f130b356b77027779a6fcb6801f33290&amp;chksm=e81f5199df68d88f72bae107f5749a8ce395c59dabd237daedd831690477886d0a5983537fb6&token=1688466117&lang=zh_CN#rd)
 
 ## Apache Hudi生态
+
+[速度！Apache Hudi又双叕被国内顶级云服务提供商集成了！](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&mid=2247484817&idx=1&sn=7e00c3270bfee162315e91de92a6506a&chksm=e81f50e7df68d9f1e1e8657dc5b3066c21033a334c5c5c81ef1e9fb645231a95a368b64b0efd&token=1889807326&lang=zh_CN#rd)
+
 [终于！Apache Hudi与Impala完成整合](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484588&amp;idx=1&amp;sn=1e879cfed15e88aa7ea6473fc7eef199&amp;chksm=e81f51dadf68d8ccf4b34bf491904a98ed5aa65eadd25d9de25729dd08f0565c4394edd45c5e&token=1688466117&lang=zh_CN#rd)
 
 [如何将Apache Hudi应用于机器学习](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484696&amp;idx=2&amp;sn=eeaaac04d14c9d0a90729e245f4a6d39&amp;chksm=e81f506edf68d978a8c57f0089d1ba927ab760d828546e87ae463c9909a912c319c29297270b&token=1688466117&lang=zh_CN#rd)
