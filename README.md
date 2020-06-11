@@ -56,6 +56,8 @@
 
 [Apache Hudi在医疗大数据中的应用](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484921&amp;idx=1&amp;sn=b625cbac007c9cb8b9e1c911f140906e&amp;chksm=e81f508fdf68d999507211b76f057eec5d601399590471dc92e03b834eec99b1ef7c7d441b6a&token=1688466117&lang=zh_CN#rd)
 
+[Uber基于Apache Hudi构建PB级数据湖实践](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&mid=2247484948&idx=1&sn=c6f2a8381f339f8a6fbc8c9570a219f5&chksm=e81f5362df68da74634b8269a97a8bbd837bd48a6a1a9715850972ab5f0e1c0910ebac624589&token=1875876260&lang=zh_CN#rd)
+
 
 ## Apache Hudi版本发布
 [Apache Hudi 0.5.1版本重磅发布](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484532&amp;idx=1&amp;sn=e8f029e5f52fc689397ef2c45dc5bc4d&amp;chksm=e81f5102df68d81420b8b0ebfdb8ed3579c4328b733cfd609c9974f72e7ac58702c822c9ff42&token=1688466117&lang=zh_CN#rd)
@@ -78,6 +80,8 @@
 [使用Amazon EMR和Apache Hudi在S3上插入，更新，删除数据](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484067&amp;idx=1&amp;sn=8bd4962eb228f43bce04195131a67fb5&amp;chksm=e81f57d5df68dec336f1ba5c294b891abf1959da967797788272cb434b7b3a6e4531c60e05a0&token=1688466117&lang=zh_CN#rd)
 
 [官宣！Apache Hudi与AWS Database Migration Service深度集成](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484556&amp;idx=1&amp;sn=1cd85bfaede42c5ba13623a65bd66390&amp;chksm=e81f51fadf68d8ec19c79bae0dcecf87095c4d02863184fce4ab7db950195211c40bdf3fcc98&token=1688466117&lang=zh_CN#rd)
+
+[Delta Lake 和 Apache Hudi 两种数据湖产品全方面对比](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&tempkey=MTA2NV9FRkxuaWRYN3gzUXVCQUV5cmExQnJobTViemhNQ2c4dlJYT19Ud1RZc0ZUc2hITHhqalJOZFdxR0xKam5lZWdMSmlCeUVwTkJud08waWJKcTJScWMtREttcGxUenQ0NTkwbEdubDBpeHM3MGVxZDdzcU1hSzB0TjVnRUNqbl9DWTdnTW1xWnVZRXJTN3FVT1lFekhNZWJ3aHNpWVpBMl9peHpPd3R3fn4%3D&chksm=681f51755f68d863d0294499bc2ee3de6387513a65ca31907848bdd329a3f76599838e41baa5#rd)
 
 [最强指南！数据湖Apache Hudi、Iceberg、Delta环境搭建](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484688&amp;idx=1&amp;sn=2b337511eb0f6761372c3d83638d3464&amp;chksm=e81f5066df68d97005e4f154c0f7ccac2fc6701fab98c1820570f84f2459c1d301b5b54b68a2&token=1688466117&lang=zh_CN#rd)
 
