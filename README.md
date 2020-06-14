@@ -110,6 +110,8 @@
 
 [生态|Apache Hudi集成Apache Zeppelin](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484806&amp;idx=1&amp;sn=3c77ce46da5abb0d475ad2c771624cfe&amp;chksm=e81f50f0df68d9e605bd8f23fe60108e28cc305e27e6411f8543268eefe1454530ba983c80a5&token=1688466117&lang=zh_CN#rd)
 
+[基于Apache Hudi 和 Kylin 构建准实时高性能数据仓库](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&tempkey=MTA2NV9qSTJhRy9paFoyZjdCN1BjcmExQnJobTViemhNQ2c4dlJYT19Ud1RZc0ZUc2hITHhqalJOZFdxR0xKZzFOeWE1V0xUejN4dkxuZGlrRjhKbzc0UEllNHYtQlpjb0pwaTZETS0xcW1qRGRXRkNpa2tLWkNyeFViOGlKTnpocXFvU21yMFBYNUxxZnNqc1ZfRkZUbFpPSWtYRk1VYkl1R29zT3JwV1Jnfn4%3D&chksm=681f50215f68d937c37bfb66627ee743e9de399dc9ecebbe96ec74659425e993f8a1f050bacd#rd)
+
 ## Apache Hudi源码解读
 [Bloom Filter在Hudi中的应用](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484157&amp;idx=1&amp;sn=dc836ddd9b264939144543b21852a15b&amp;chksm=e81f578bdf68de9d1325ee7c40844ea06f9c22196f6e4abc76543bae75b534e7ea3b3dd12023&token=1688466117&lang=zh_CN#rd)
 
