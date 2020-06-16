@@ -81,7 +81,7 @@
 
 [官宣！Apache Hudi与AWS Database Migration Service深度集成](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484556&amp;idx=1&amp;sn=1cd85bfaede42c5ba13623a65bd66390&amp;chksm=e81f51fadf68d8ec19c79bae0dcecf87095c4d02863184fce4ab7db950195211c40bdf3fcc98&token=1688466117&lang=zh_CN#rd)
 
-[Delta Lake 和 Apache Hudi 两种数据湖产品全方面对比](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&tempkey=MTA2NV9FRkxuaWRYN3gzUXVCQUV5cmExQnJobTViemhNQ2c4dlJYT19Ud1RZc0ZUc2hITHhqalJOZFdxR0xKam5lZWdMSmlCeUVwTkJud08waWJKcTJScWMtREttcGxUenQ0NTkwbEdubDBpeHM3MGVxZDdzcU1hSzB0TjVnRUNqbl9DWTdnTW1xWnVZRXJTN3FVT1lFekhNZWJ3aHNpWVpBMl9peHpPd3R3fn4%3D&chksm=681f51755f68d863d0294499bc2ee3de6387513a65ca31907848bdd329a3f76599838e41baa5#rd)
+[Delta Lake 和 Apache Hudi 两种数据湖产品全方面对比](https://mp.weixin.qq.com/s/Z8YLr5jmkm7u5WgHQZk1MQ)
 
 [最强指南！数据湖Apache Hudi、Iceberg、Delta环境搭建](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484688&amp;idx=1&amp;sn=2b337511eb0f6761372c3d83638d3464&amp;chksm=e81f5066df68d97005e4f154c0f7ccac2fc6701fab98c1820570f84f2459c1d301b5b54b68a2&token=1688466117&lang=zh_CN#rd)
 
@@ -110,7 +110,7 @@
 
 [生态|Apache Hudi集成Apache Zeppelin](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484806&amp;idx=1&amp;sn=3c77ce46da5abb0d475ad2c771624cfe&amp;chksm=e81f50f0df68d9e605bd8f23fe60108e28cc305e27e6411f8543268eefe1454530ba983c80a5&token=1688466117&lang=zh_CN#rd)
 
-[基于Apache Hudi 和 Kylin 构建准实时高性能数据仓库](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&tempkey=MTA2NV9qSTJhRy9paFoyZjdCN1BjcmExQnJobTViemhNQ2c4dlJYT19Ud1RZc0ZUc2hITHhqalJOZFdxR0xKZzFOeWE1V0xUejN4dkxuZGlrRjhKbzc0UEllNHYtQlpjb0pwaTZETS0xcW1qRGRXRkNpa2tLWkNyeFViOGlKTnpocXFvU21yMFBYNUxxZnNqc1ZfRkZUbFpPSWtYRk1VYkl1R29zT3JwV1Jnfn4%3D&chksm=681f50215f68d937c37bfb66627ee743e9de399dc9ecebbe96ec74659425e993f8a1f050bacd#rd)
+[基于Apache Hudi 和 Kylin 构建准实时高性能数据仓库](https://mp.weixin.qq.com/s/KafqWfAJOJGV3tVOTAo-hA)
 
 ## Apache Hudi源码解读
 [Bloom Filter在Hudi中的应用](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484157&amp;idx=1&amp;sn=dc836ddd9b264939144543b21852a15b&amp;chksm=e81f578bdf68de9d1325ee7c40844ea06f9c22196f6e4abc76543bae75b534e7ea3b3dd12023&token=1688466117&lang=zh_CN#rd)
