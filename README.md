@@ -64,6 +64,8 @@
 
 [终于！Apache Hudi 0.5.2版本正式发布](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484753&amp;idx=1&amp;sn=84062160260ae20f68bb61a254781e0f&amp;chksm=e81f5027df68d9316a8d9b10e2a54804110e7af1e0dcadf1060cfadc0a55acb741a19c990af0&token=1688466117&lang=zh_CN#rd)
 
+[特性速览 | Apache Hudi 0.5.3版本正式发布](https://mp.weixin.qq.com/s/JzDgbbUlrfeQlvtrSJnnVg)
+
 ## Apache Hudi实战
 [解锁Apache Hudi删除记录新姿势](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484537&amp;idx=1&amp;sn=9c5b3dbe69f774cf0f8b031143e329ee&amp;chksm=e81f510fdf68d819720cb66102b386b3a19a537a45c40ee0cdc8e7f2bc6fa4ad469549dce8bb&token=1688466117&lang=zh_CN#rd)
 
@@ -92,6 +94,8 @@
 [实战！配置DataDog监控Apache Hudi应用指标](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484926&amp;idx=1&amp;sn=f2e965cb626c37bde868c286004b3208&amp;chksm=e81f5088df68d99e199c96f3a77db69f48982746e5b07ebe93bd75bceb485dc010d502a862e2&token=1688466117&lang=zh_CN#rd)
 
 [调优 | Apache Hudi应用调优指南](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484939&amp;idx=1&amp;sn=5af5f3893242820bb91f3e5ea0e9e81b&amp;chksm=e81f537ddf68da6b79123fab084a6b618f2769ca149774d28e488bf7f507a7c35471449470e9&token=1688466117&lang=zh_CN#rd)
+
+[填坑 | 线上Presto查询Hudi表异常排查](https://mp.weixin.qq.com/s/ik_AKz82G8jPbVq9Q02umg)
 
 ## 数据湖扩展
 [什么LakeHouse](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484542&amp;idx=1&amp;sn=4616da2eeb37d15d891b298787a6999b&amp;chksm=e81f5108df68d81e18aac88511d728ba39e36f9d36f9defe23c462a826c8c16f46b27b53be15&token=1688466117&lang=zh_CN#rd)
