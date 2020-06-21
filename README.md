@@ -16,6 +16,8 @@
 
 [官宣！ASF官方正式宣布Apache Hudi成为顶级项目](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484935&amp;idx=1&amp;sn=328222565584a2f3fd5f2ad650bc02bc&amp;chksm=e81f5371df68da672e4cccbad0aea046177696199e6a3330c814d0c2e231d9955d38c5fccbc6&token=1688466117&lang=zh_CN#rd)
 
+[Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
+
 ## Apache Hudi入门系列
 [什么是Apache Hudi](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484017&amp;idx=1&amp;sn=bb49c45012e76d871225055736afc0db&amp;chksm=e81f5707df68de11f810c4e6b006770ba6a9f05853b907de38ee87e2713725ac9bb988d8e30c&token=1688466117&lang=zh_CN#rd)
 
