@@ -41,6 +41,8 @@
 
 [Apache Hudi 设计与架构最强解读](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&mid=2247484778&idx=1&sn=1a52540f24c641ac17ec647fa241fbe9&chksm=e81f501cdf68d90a35e0277bc053274d8a2b0f36c639949c5e87ff7256b7b6e07388bbd39bf5&token=1889807326&lang=zh_CN#rd)
 
+[使用Apache Hudi构建大规模、事务性数据湖](https://mp.weixin.qq.com/s/u_POo_VIRXAdwamE9NA0Pw)
+
 ## Apache Hudi落地解读
 [Apache Hudi：统一批和近实时分析的存储和服务](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484493&amp;idx=1&amp;sn=66ba1de318960b2ea50f7db95aea3f4b&amp;chksm=e81f513bdf68d82d9b656feb267787c1b74cbc03499ffddecf18ece9f6f15cc9678b7c80b74f&token=1688466117&lang=zh_CN#rd)
 
