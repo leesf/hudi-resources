@@ -125,6 +125,8 @@
 
 [生态 | Apache Hudi插上Alluxio的翅膀](https://mp.weixin.qq.com/s/C_hIhyD7swCcrglR5aiQkQ)
 
+[官宣！AWS Athena正式可查Apache Hudi数据集](https://mp.weixin.qq.com/s/u_W9VWH4JuBC0hLYBZCPAQ)
+
 ## Apache Hudi源码解读
 [Bloom Filter在Hudi中的应用](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484157&amp;idx=1&amp;sn=dc836ddd9b264939144543b21852a15b&amp;chksm=e81f578bdf68de9d1325ee7c40844ea06f9c22196f6e4abc76543bae75b534e7ea3b3dd12023&token=1688466117&lang=zh_CN#rd)
 
