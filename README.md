@@ -47,6 +47,8 @@
 
 [Apache Hudi重磅特性解读之存量表高效迁移机制](https://mp.weixin.qq.com/s/-A_1xNQCw0hJPB561u05rw)
 
+[Apache Hudi + AWS S3 + Athena实战](https://mp.weixin.qq.com/s/M0Fa0lxUJX-hCIQc9toZsg)
+
 ## Apache Hudi落地解读
 [Apache Hudi：统一批和近实时分析的存储和服务](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484493&amp;idx=1&amp;sn=66ba1de318960b2ea50f7db95aea3f4b&amp;chksm=e81f513bdf68d82d9b656feb267787c1b74cbc03499ffddecf18ece9f6f15cc9678b7c80b74f&token=1688466117&lang=zh_CN#rd)
 
