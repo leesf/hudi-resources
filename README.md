@@ -106,6 +106,8 @@
 
 [填坑 | 线上Presto查询Hudi表异常排查](https://mp.weixin.qq.com/s/ik_AKz82G8jPbVq9Q02umg)
 
+[Apache Hudi表自动同步至阿里云数据湖分析DLA](https://mp.weixin.qq.com/s/zBAYJlsnbbFAjWnmOqjTlQ)
+
 ## 数据湖扩展
 [什么LakeHouse](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484542&amp;idx=1&amp;sn=4616da2eeb37d15d891b298787a6999b&amp;chksm=e81f5108df68d81e18aac88511d728ba39e36f9d36f9defe23c462a826c8c16f46b27b53be15&token=1688466117&lang=zh_CN#rd)
 
@@ -169,4 +171,5 @@
 [Apache Hudi索引实现分析（五）之基于List的IndexFileFilter](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484736&amp;idx=1&amp;sn=123efc79e714f988c63318cae696941d&amp;chksm=e81f5036df68d9207a299ad65a0458ea36b7203a6471a7071fe13b3c4d8053ec821058b16789&token=1688466117&lang=zh_CN#rd)
 
 [详解ApacheHudi如何节约宝贵的存储空间](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484301&amp;idx=1&amp;sn=79cdd0894a9a3af797fdfba7f7656b45&amp;chksm=e81f56fbdf68dfed66c71afcf2dd7026848ce99b24460278387cf4187d2f722ba570b9f26b11&token=1688466117&lang=zh_CN#rd)
+
 
