@@ -77,6 +77,8 @@
 
 [特性速览 | Apache Hudi 0.5.3版本正式发布](https://mp.weixin.qq.com/s/JzDgbbUlrfeQlvtrSJnnVg)
 
+[Apache Hudi 0.6.0版本重磅发布](https://mp.weixin.qq.com/s/S0qWaxRtJw9v6ikBVyfylw)
+
 ## Apache Hudi实战
 [解锁Apache Hudi删除记录新姿势](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484537&amp;idx=1&amp;sn=9c5b3dbe69f774cf0f8b031143e329ee&amp;chksm=e81f510fdf68d819720cb66102b386b3a19a537a45c40ee0cdc8e7f2bc6fa4ad469549dce8bb&token=1688466117&lang=zh_CN#rd)
 
