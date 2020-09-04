@@ -70,6 +70,8 @@
 
 [Uber基于Apache Hudi构建PB级数据湖实践](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&mid=2247484948&idx=1&sn=c6f2a8381f339f8a6fbc8c9570a219f5&chksm=e81f5362df68da74634b8269a97a8bbd837bd48a6a1a9715850972ab5f0e1c0910ebac624589&token=1875876260&lang=zh_CN#rd)
 
+[Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
+
 ## Apache Hudi版本发布
 [Apache Hudi 0.5.1版本重磅发布](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484532&amp;idx=1&amp;sn=e8f029e5f52fc689397ef2c45dc5bc4d&amp;chksm=e81f5102df68d81420b8b0ebfdb8ed3579c4328b733cfd609c9974f72e7ac58702c822c9ff42&token=1688466117&lang=zh_CN#rd)
 
