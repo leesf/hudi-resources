@@ -126,6 +126,8 @@
 
 ## Apache Hudi生态
 
+[划重点！AWS的湖仓一体使用哪种数据湖格式进行衔接？](https://mp.weixin.qq.com/s/WIZLdGkbGpDFM2yfc5f64w)
+
 [速度！Apache Hudi又双叕被国内顶级云服务提供商集成了！](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&mid=2247484817&idx=1&sn=7e00c3270bfee162315e91de92a6506a&chksm=e81f50e7df68d9f1e1e8657dc5b3066c21033a334c5c5c81ef1e9fb645231a95a368b64b0efd&token=1889807326&lang=zh_CN#rd)
 
 [终于！Apache Hudi与Impala完成整合](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484588&amp;idx=1&amp;sn=1e879cfed15e88aa7ea6473fc7eef199&amp;chksm=e81f51dadf68d8ccf4b34bf491904a98ed5aa65eadd25d9de25729dd08f0565c4394edd45c5e&token=1688466117&lang=zh_CN#rd)
