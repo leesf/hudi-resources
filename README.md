@@ -4,6 +4,8 @@
 
 ## Apache Hudi社区
 
+[假期结束还没缓过神？Hudi on Flink最新进展了解下？](https://mp.weixin.qq.com/s/LvKaj5ytk6imEU5Dc1Sr5Q)
+
 [恭喜！Apache Hudi社区新晋多位Committer](https://mp.weixin.qq.com/s/Hcl4bgcbGpbCxax3dVAf-g)
 
 [快速参与下一代数据湖顶级项目ApacheHudi](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484278&amp;idx=1&amp;sn=59f916b6e6a7dfcd36ee88fca21c5442&amp;chksm=e81f5600df68df16e27ad013295eaf858a5d141d55659ccc9dd42817ec34e21b7c34252878e8&token=1688466117&lang=zh_CN#rd)
