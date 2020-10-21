@@ -54,6 +54,9 @@
 [详解Apache Hudi如何配置各种类型分区](https://mp.weixin.qq.com/s/LUXhVmk2l0xO_cDzbD3fLA)
 
 ## Apache Hudi落地解读
+
+[Apache Hudi助力nClouds加速数据交付](https://mp.weixin.qq.com/s/kzxgZHjSUQ2stcKrqaUpoQ)
+
 [Apache Hudi：统一批和近实时分析的存储和服务](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484493&amp;idx=1&amp;sn=66ba1de318960b2ea50f7db95aea3f4b&amp;chksm=e81f513bdf68d82d9b656feb267787c1b74cbc03499ffddecf18ece9f6f15cc9678b7c80b74f&token=1688466117&lang=zh_CN#rd)
 
 [贝壳找房利用Hudi构建准实时数仓的实践与挑战](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&mid=2247484149&idx=1&sn=3f222357c7ad844291d0fa29c1c0956a&chksm=e81f5783df68de95e19753910fa793399385217a39312885e48ab78e83d3e9f00689e9194928&token=1889807326&lang=zh_CN#rd)
