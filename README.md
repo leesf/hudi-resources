@@ -55,6 +55,8 @@
 
 ## Apache Hudi落地解读
 
+[T3 出行构建数据湖上低延迟数据 Pipeline 的实践](https://mp.weixin.qq.com/s/jfDDsdHV-qfouz-NlK_ZFQ)
+
 [使用Apache Hudi + Amazon S3 + Amazon EMR + AWS DMS构建数据湖](https://mp.weixin.qq.com/s/1GdAbZkslByHgT5KO0Ek-A)
 
 [印度最大在线食品杂货公司Grofers的数据湖建设之路](https://mp.weixin.qq.com/s/U7HH0xK2p48AjlCY5yQ-4g)
