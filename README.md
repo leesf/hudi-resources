@@ -21,6 +21,9 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[Apache Hudi初学者指南](https://mp.weixin.qq.com/s/RpwPhtVFwyT34pX-PgMzOQ)
+
 [什么是Apache Hudi](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484017&amp;idx=1&amp;sn=bb49c45012e76d871225055736afc0db&amp;chksm=e81f5707df68de11f810c4e6b006770ba6a9f05853b907de38ee87e2713725ac9bb988d8e30c&token=1688466117&lang=zh_CN#rd)
 
 [查询Hudi数据集](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484025&amp;idx=1&amp;sn=4fee9f81e0ca5e3e1a41db2cde978051&amp;chksm=e81f570fdf68de19912bdf2acc3e213f1f8879180525238da1b7e1b37eaad304ea5ea7445718&token=1688466117&lang=zh_CN#rd)
