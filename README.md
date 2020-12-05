@@ -58,6 +58,8 @@
 
 ## Apache Hudi落地解读
 
+[最佳实践 | 通过Apache Hudi和Alluxio建设高性能数据湖](https://mp.weixin.qq.com/s/OdzM5uphMsVWGvNxJ36l9w)
+
 [使用Apache Hudi + Amazon EMR进行变化数据捕获(CDC)](https://mp.weixin.qq.com/s/GdWIGOoMmYRZcBYtOmYBHA)
 
 [T3 出行构建数据湖上低延迟数据 Pipeline 的实践](https://mp.weixin.qq.com/s/jfDDsdHV-qfouz-NlK_ZFQ)
