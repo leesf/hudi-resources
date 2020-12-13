@@ -101,6 +101,8 @@
 
 ## Apache Hudi实战
 
+[Apache Hudi + Flink作业运行指南](https://mp.weixin.qq.com/s/d1GI1AYHUpKwz_VHd41CeA)
+
 [Apache Hudi异步Compaction的不同部署模型全面汇总](https://mp.weixin.qq.com/s/OEM61L3FhdLAeTghtGAeUA)
 
 [解锁Apache Hudi删除记录新姿势](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484537&amp;idx=1&amp;sn=9c5b3dbe69f774cf0f8b031143e329ee&amp;chksm=e81f510fdf68d819720cb66102b386b3a19a537a45c40ee0cdc8e7f2bc6fa4ad469549dce8bb&token=1688466117&lang=zh_CN#rd)
