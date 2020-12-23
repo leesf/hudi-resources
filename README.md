@@ -58,6 +58,8 @@
 
 ## Apache Hudi落地解读
 
+[数仓实时化改造：Hudi on Flink 在顺丰的实践应用](https://mp.weixin.qq.com/s/H17GXC_ucC6oVLSrv6VBQQ)
+
 [最佳实践 | 通过Apache Hudi和Alluxio建设高性能数据湖](https://mp.weixin.qq.com/s/OdzM5uphMsVWGvNxJ36l9w)
 
 [使用Apache Hudi + Amazon EMR进行变化数据捕获(CDC)](https://mp.weixin.qq.com/s/GdWIGOoMmYRZcBYtOmYBHA)
@@ -143,6 +145,8 @@
 [Data Lake架构揭秘](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484655&amp;idx=1&amp;sn=f130b356b77027779a6fcb6801f33290&amp;chksm=e81f5199df68d88f72bae107f5749a8ce395c59dabd237daedd831690477886d0a5983537fb6&token=1688466117&lang=zh_CN#rd)
 
 ## Apache Hudi生态
+
+[CDH 6.3.0安装Apache Hudi指南](https://mp.weixin.qq.com/s/Uh8p8wAjUPSja1mxgpYbsQ)
 
 [假期结束还没缓过神？Hudi on Flink最新进展了解下？](https://mp.weixin.qq.com/s/LvKaj5ytk6imEU5Dc1Sr5Q)
 
