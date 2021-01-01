@@ -22,6 +22,10 @@
 
 ## Apache Hudi入门系列
 
+[Hi, Data Lakers!这里有一份来自PMC Chair的新年礼包，请注意查收！](https://mp.weixin.qq.com/s/A00schLliJDQAIAq0AxSLA)
+
+[数据湖框架选型很纠结？一文了解Apache Hudi核心优势](https://mp.weixin.qq.com/s/74BPBr-KC2wUn5cqorm-wQ)
+
 [Apache Hudi初学者指南](https://mp.weixin.qq.com/s/RpwPhtVFwyT34pX-PgMzOQ)
 
 [什么是Apache Hudi](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484017&amp;idx=1&amp;sn=bb49c45012e76d871225055736afc0db&amp;chksm=e81f5707df68de11f810c4e6b006770ba6a9f05853b907de38ee87e2713725ac9bb988d8e30c&token=1688466117&lang=zh_CN#rd)
@@ -102,6 +106,8 @@
 [Apache Hudi 0.6.0版本重磅发布](https://mp.weixin.qq.com/s/S0qWaxRtJw9v6ikBVyfylw)
 
 ## Apache Hudi实战
+
+[实战 | Apache Hudi回调功能简介及使用示例](https://mp.weixin.qq.com/s/M-ptQ3olf14IxaAPu9t5ww)
 
 [Apache Hudi + Flink作业运行指南](https://mp.weixin.qq.com/s/d1GI1AYHUpKwz_VHd41CeA)
 
