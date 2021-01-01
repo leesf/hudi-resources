@@ -1,7 +1,5 @@
 欢迎关注微信公众号：ApacheHudi
 
-![微信公众号](https://github.com/leesf/hudi-resources/blob/master/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.gif)
-
 ![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby.png)
 
 ## Apache Hudi社区
