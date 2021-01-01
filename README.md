@@ -2,6 +2,8 @@
 
 ![微信公众号](https://github.com/leesf/hudi-resources/blob/master/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.gif)
 
+![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby.png)
+
 ## Apache Hudi社区
 
 [恭喜！Apache Hudi社区新晋多位Committer](https://mp.weixin.qq.com/s/Hcl4bgcbGpbCxax3dVAf-g)
