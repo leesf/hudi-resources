@@ -1,5 +1,3 @@
-欢迎关注微信公众号：ApacheHudi
-
 ![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby.png)
 
 ## Apache Hudi社区
