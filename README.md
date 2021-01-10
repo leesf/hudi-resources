@@ -144,11 +144,16 @@
 [Apache Hudi表自动同步至阿里云数据湖分析DLA](https://mp.weixin.qq.com/s/zBAYJlsnbbFAjWnmOqjTlQ)
 
 ## 数据湖扩展
+
+[Lakehouse: 统一数据仓库和高级分析的新一代开放平台](https://mp.weixin.qq.com/s/2lFPPZYabBc3C77HJbIvzQ)
+
 [什么LakeHouse](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484542&amp;idx=1&amp;sn=4616da2eeb37d15d891b298787a6999b&amp;chksm=e81f5108df68d81e18aac88511d728ba39e36f9d36f9defe23c462a826c8c16f46b27b53be15&token=1688466117&lang=zh_CN#rd)
 
 [Data Lake架构揭秘](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484655&amp;idx=1&amp;sn=f130b356b77027779a6fcb6801f33290&amp;chksm=e81f5199df68d88f72bae107f5749a8ce395c59dabd237daedd831690477886d0a5983537fb6&token=1688466117&lang=zh_CN#rd)
 
 ## Apache Hudi生态
+
+[数据湖风暴来袭！阿里云EMR重磅发布Apache Hudi](https://mp.weixin.qq.com/s/i4IYvMeUj_wFu1kkCvoOJg)
 
 [CDH 6.3.0安装Apache Hudi指南](https://mp.weixin.qq.com/s/Uh8p8wAjUPSja1mxgpYbsQ)
 
