@@ -105,6 +105,8 @@
 
 ## Apache Hudi实战
 
+[集成才是硬道理！ 用它构建一个完整的Hadoop](https://mp.weixin.qq.com/s/Wjk6XnjyaPQrrWWPf0UlUQ)
+
 [实战 | Apache Hudi回调功能简介及使用示例](https://mp.weixin.qq.com/s/M-ptQ3olf14IxaAPu9t5ww)
 
 [Apache Hudi + Flink作业运行指南](https://mp.weixin.qq.com/s/d1GI1AYHUpKwz_VHd41CeA)
