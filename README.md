@@ -147,6 +147,8 @@
 
 ## 数据湖扩展
 
+[大数据技术变革正当时，Apache Hudi了解下？](https://mp.weixin.qq.com/s/JCrnpACBbhSrrscqgto5HA)
+
 [Lakehouse: 统一数据仓库和高级分析的新一代开放平台](https://mp.weixin.qq.com/s/2lFPPZYabBc3C77HJbIvzQ)
 
 [什么LakeHouse](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484542&amp;idx=1&amp;sn=4616da2eeb37d15d891b298787a6999b&amp;chksm=e81f5108df68d81e18aac88511d728ba39e36f9d36f9defe23c462a826c8c16f46b27b53be15&token=1688466117&lang=zh_CN#rd)
