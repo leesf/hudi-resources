@@ -2,6 +2,8 @@
 
 ## Apache Hudi社区
 
+[恭喜！Apache Hudi社区新晋两位Committer](https://mp.weixin.qq.com/s/bsRFuW9kGPrU68qwdZ6_yg)
+
 [Apache Hudi 0.7.0版本重磅发布](https://mp.weixin.qq.com/s/g8wn6rWUeQ6ID97YyUYoSg)
 
 [恭喜！Apache Hudi社区新晋多位Committer](https://mp.weixin.qq.com/s/Hcl4bgcbGpbCxax3dVAf-g)
