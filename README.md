@@ -24,6 +24,8 @@
 
 ## Apache Hudi入门系列
 
+[查询时间降低60%！Apache Hudi数据布局黑科技了解下](https://mp.weixin.qq.com/s/5JdOrI8HpJJS-xkVG296iw)
+
 [Apache Hudi：不一样的存储、不一样的计算](https://mp.weixin.qq.com/s/B3qMjqzI_U20wQmE0NSsrQ)
 
 [只会数仓？数据湖与Apache Hudi有必要了解一下](https://mp.weixin.qq.com/s/Y70PI1kFt1JQ5jKatvCSTw)
