@@ -167,6 +167,8 @@
 
 ## Apache Hudi生态
 
+[Apache Hudi与Apache Flink更好地集成，最新方案了解下？](https://mp.weixin.qq.com/s/91tQFCW3hi7YJR3qIi3ARg)
+
 [数据湖风暴来袭！阿里云EMR重磅发布Apache Hudi](https://mp.weixin.qq.com/s/i4IYvMeUj_wFu1kkCvoOJg)
 
 [CDH 6.3.0安装Apache Hudi指南](https://mp.weixin.qq.com/s/Uh8p8wAjUPSja1mxgpYbsQ)
