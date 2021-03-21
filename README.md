@@ -24,6 +24,8 @@
 
 ## Apache Hudi入门系列
 
+[Apache Hudi：CDC的黄金搭档](https://mp.weixin.qq.com/s/Y7aQxkNgnfnvpgwF7dJIUg)
+
 [使用Apache Hudi构建下一代Lakehouse](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&mid=2247485669&idx=2&sn=e002ff5805715e7435e8510c4bf9dab3&chksm=e81f5d93df68d485d73faf7375f81dc9e7d5b1cce5b23d60fce5244953a8c05c5105551a0217&token=1639107443&lang=zh_CN#rd)
 
 [查询时间降低60%！Apache Hudi数据布局黑科技了解下](https://mp.weixin.qq.com/s/5JdOrI8HpJJS-xkVG296iw)
