@@ -1,4 +1,4 @@
-![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0313.png)
+![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0327.png)
 
 ## Apache Hudi社区
 
@@ -23,6 +23,8 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[Apache Hudi核心概念一网打尽](https://mp.weixin.qq.com/s/fSweg0XkFcOvsD3q8tKiNg)
 
 [Apache Hudi：CDC的黄金搭档](https://mp.weixin.qq.com/s/Y7aQxkNgnfnvpgwF7dJIUg)
 
@@ -118,6 +120,8 @@
 [Apache Hudi 0.6.0版本重磅发布](https://mp.weixin.qq.com/s/S0qWaxRtJw9v6ikBVyfylw)
 
 ## Apache Hudi实战
+
+[重磅！解锁Apache Flink读写Apache Hudi新姿势](https://mp.weixin.qq.com/s/cG4KQdcjd98s8h0Ini7CWw)
 
 [集成才是硬道理！ 用它构建一个完整的Hadoop](https://mp.weixin.qq.com/s/Wjk6XnjyaPQrrWWPf0UlUQ)
 
