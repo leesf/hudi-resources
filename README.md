@@ -121,6 +121,8 @@
 
 ## Apache Hudi实战
 
+[Apache Flink 1.12.2集成Hudi 0.9.0运行指南](https://mp.weixin.qq.com/s/TKFZYwPbGSKSo29EDeaPIw)
+
 [重磅！解锁Apache Flink读写Apache Hudi新姿势](https://mp.weixin.qq.com/s/cG4KQdcjd98s8h0Ini7CWw)
 
 [集成才是硬道理！ 用它构建一个完整的Hadoop](https://mp.weixin.qq.com/s/Wjk6XnjyaPQrrWWPf0UlUQ)
@@ -164,6 +166,8 @@
 [Apache Hudi表自动同步至阿里云数据湖分析DLA](https://mp.weixin.qq.com/s/zBAYJlsnbbFAjWnmOqjTlQ)
 
 ## 数据湖扩展
+
+[Lakehouse元数据管理技术深度解析](https://mp.weixin.qq.com/s/8GknnV6AYH5Mk83rCII7TQ)
 
 [大数据技术变革正当时，Apache Hudi了解下？](https://mp.weixin.qq.com/s/JCrnpACBbhSrrscqgto5HA)
 
