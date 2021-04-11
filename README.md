@@ -2,6 +2,8 @@
 
 ## Apache Hudi社区
 
+[Apache Hudi 0.8.0版本重磅发布](https://mp.weixin.qq.com/s/VDRr7UzpFPC7cLPmyxrGCw)
+
 [恭喜！Apache Hudi社区新晋两位Committer](https://mp.weixin.qq.com/s/bsRFuW9kGPrU68qwdZ6_yg)
 
 [Apache Hudi 0.7.0版本重磅发布](https://mp.weixin.qq.com/s/g8wn6rWUeQ6ID97YyUYoSg)
@@ -23,6 +25,8 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[一文彻底掌握Apache Hudi的主键和分区配置](https://mp.weixin.qq.com/s/A59QDz7W06uCM_yZkmkYQw)
 
 [Apache Hudi核心概念一网打尽](https://mp.weixin.qq.com/s/fSweg0XkFcOvsD3q8tKiNg)
 
