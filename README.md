@@ -8,6 +8,14 @@
 
 [Apache Hudi 0.7.0版本重磅发布](https://mp.weixin.qq.com/s/g8wn6rWUeQ6ID97YyUYoSg)
 
+[Apache Hudi 0.5.1版本重磅发布](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484532&amp;idx=1&amp;sn=e8f029e5f52fc689397ef2c45dc5bc4d&amp;chksm=e81f5102df68d81420b8b0ebfdb8ed3579c4328b733cfd609c9974f72e7ac58702c822c9ff42&token=1688466117&lang=zh_CN#rd)
+
+[终于！Apache Hudi 0.5.2版本正式发布](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484753&amp;idx=1&amp;sn=84062160260ae20f68bb61a254781e0f&amp;chksm=e81f5027df68d9316a8d9b10e2a54804110e7af1e0dcadf1060cfadc0a55acb741a19c990af0&token=1688466117&lang=zh_CN#rd)
+
+[特性速览 | Apache Hudi 0.5.3版本正式发布](https://mp.weixin.qq.com/s/JzDgbbUlrfeQlvtrSJnnVg)
+
+[Apache Hudi 0.6.0版本重磅发布](https://mp.weixin.qq.com/s/S0qWaxRtJw9v6ikBVyfylw)
+
 [恭喜！Apache Hudi社区新晋多位Committer](https://mp.weixin.qq.com/s/Hcl4bgcbGpbCxax3dVAf-g)
 
 [快速参与下一代数据湖顶级项目ApacheHudi](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484278&amp;idx=1&amp;sn=59f916b6e6a7dfcd36ee88fca21c5442&amp;chksm=e81f5600df68df16e27ad013295eaf858a5d141d55659ccc9dd42817ec34e21b7c34252878e8&token=1688466117&lang=zh_CN#rd)
@@ -80,6 +88,8 @@
 
 ## Apache Hudi落地解读
 
+[Apache Hudi在Linkflow构建实时数据湖的生产实践](https://mp.weixin.qq.com/s/u--0XnVGXnSK9E7NvrbzuA)
+
 [数仓实时化改造：Hudi on Flink 在顺丰的实践应用](https://mp.weixin.qq.com/s/H17GXC_ucC6oVLSrv6VBQQ)
 
 [最佳实践 | 通过Apache Hudi和Alluxio建设高性能数据湖](https://mp.weixin.qq.com/s/OdzM5uphMsVWGvNxJ36l9w)
@@ -113,15 +123,6 @@
 [Uber基于Apache Hudi构建PB级数据湖实践](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&mid=2247484948&idx=1&sn=c6f2a8381f339f8a6fbc8c9570a219f5&chksm=e81f5362df68da74634b8269a97a8bbd837bd48a6a1a9715850972ab5f0e1c0910ebac624589&token=1875876260&lang=zh_CN#rd)
 
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
-
-## Apache Hudi版本发布
-[Apache Hudi 0.5.1版本重磅发布](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484532&amp;idx=1&amp;sn=e8f029e5f52fc689397ef2c45dc5bc4d&amp;chksm=e81f5102df68d81420b8b0ebfdb8ed3579c4328b733cfd609c9974f72e7ac58702c822c9ff42&token=1688466117&lang=zh_CN#rd)
-
-[终于！Apache Hudi 0.5.2版本正式发布](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484753&amp;idx=1&amp;sn=84062160260ae20f68bb61a254781e0f&amp;chksm=e81f5027df68d9316a8d9b10e2a54804110e7af1e0dcadf1060cfadc0a55acb741a19c990af0&token=1688466117&lang=zh_CN#rd)
-
-[特性速览 | Apache Hudi 0.5.3版本正式发布](https://mp.weixin.qq.com/s/JzDgbbUlrfeQlvtrSJnnVg)
-
-[Apache Hudi 0.6.0版本重磅发布](https://mp.weixin.qq.com/s/S0qWaxRtJw9v6ikBVyfylw)
 
 ## Apache Hudi实战
 
@@ -182,6 +183,8 @@
 [Data Lake架构揭秘](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484655&amp;idx=1&amp;sn=f130b356b77027779a6fcb6801f33290&amp;chksm=e81f5199df68d88f72bae107f5749a8ce395c59dabd237daedd831690477886d0a5983537fb6&token=1688466117&lang=zh_CN#rd)
 
 ## Apache Hudi生态
+
+[Apache Hudi C位！云计算一哥AWS EMR 2020年度回顾](https://mp.weixin.qq.com/s/9Dy5NUgJ-vm386VjOQf0Rw)
 
 [Apache Hudi与Apache Flink更好地集成，最新方案了解下？](https://mp.weixin.qq.com/s/91tQFCW3hi7YJR3qIi3ARg)
 
