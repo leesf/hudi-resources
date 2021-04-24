@@ -2,6 +2,8 @@
 
 ## Apache Hudi社区
 
+[致广大数据湖用户的一封信](https://mp.weixin.qq.com/s/nxDN15v2cf7evo-vktnh0Q)
+
 [Apache Hudi 0.8.0版本重磅发布](https://mp.weixin.qq.com/s/VDRr7UzpFPC7cLPmyxrGCw)
 
 [恭喜！Apache Hudi社区新晋两位Committer](https://mp.weixin.qq.com/s/bsRFuW9kGPrU68qwdZ6_yg)
@@ -125,6 +127,8 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi实战
+
+[在AWS Glue中使用Apache Hudi](https://mp.weixin.qq.com/s/9z4rmokVJJpc14qosXLU8g)
 
 [Apache Flink 1.12.2集成Hudi 0.9.0运行指南](https://mp.weixin.qq.com/s/TKFZYwPbGSKSo29EDeaPIw)
 
