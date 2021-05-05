@@ -36,6 +36,8 @@
 
 ## Apache Hudi入门系列
 
+[提升50%+！Presto如何提升Hudi表查询性能？](https://mp.weixin.qq.com/s/ZnoME7YXRXhYhgq-qbtyMA)
+
 [一文彻底掌握Apache Hudi的主键和分区配置](https://mp.weixin.qq.com/s/A59QDz7W06uCM_yZkmkYQw)
 
 [Apache Hudi核心概念一网打尽](https://mp.weixin.qq.com/s/fSweg0XkFcOvsD3q8tKiNg)
