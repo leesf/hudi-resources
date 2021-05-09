@@ -1,4 +1,4 @@
-![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0430.png)
+![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0509.png)
 
 ## Apache Hudi社区
 
@@ -35,6 +35,8 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[Apache Hudi集成Spark SQL抢先体验](https://mp.weixin.qq.com/s/1ElF9fh5k7j7HD_3HKRDqQ)
 
 [提升50%+！Presto如何提升Hudi表查询性能？](https://mp.weixin.qq.com/s/ZnoME7YXRXhYhgq-qbtyMA)
 
@@ -189,6 +191,8 @@
 [Data Lake架构揭秘](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484655&amp;idx=1&amp;sn=f130b356b77027779a6fcb6801f33290&amp;chksm=e81f5199df68d88f72bae107f5749a8ce395c59dabd237daedd831690477886d0a5983537fb6&token=1688466117&lang=zh_CN#rd)
 
 ## Apache Hudi生态
+
+[使用Apache Pulsar + Hudi 构建Lakehouse方案了解下？](https://mp.weixin.qq.com/s/6lGicldAz0eeDYGWnDtfJg)
 
 [Apache Hudi C位！云计算一哥AWS EMR 2020年度回顾](https://mp.weixin.qq.com/s/9Dy5NUgJ-vm386VjOQf0Rw)
 
