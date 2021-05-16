@@ -194,6 +194,8 @@
 
 [基于Apache Hudi 湖仓一体的大数据生态体系](https://mp.weixin.qq.com/s/eNPKXJHeUR2dE1lTyL7d6w)
 
+[KIP-5：Apache Kylin深度集成Hudi](https://mp.weixin.qq.com/s/pbMU_B8P0R6A9Utuhkivnw)
+
 [使用Apache Pulsar + Hudi 构建Lakehouse方案了解下？](https://mp.weixin.qq.com/s/6lGicldAz0eeDYGWnDtfJg)
 
 [Apache Hudi C位！云计算一哥AWS EMR 2020年度回顾](https://mp.weixin.qq.com/s/9Dy5NUgJ-vm386VjOQf0Rw)
