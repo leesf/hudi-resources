@@ -192,6 +192,8 @@
 
 ## Apache Hudi生态
 
+[基于Apache Hudi 湖仓一体的大数据生态体系](https://mp.weixin.qq.com/s/eNPKXJHeUR2dE1lTyL7d6w)
+
 [使用Apache Pulsar + Hudi 构建Lakehouse方案了解下？](https://mp.weixin.qq.com/s/6lGicldAz0eeDYGWnDtfJg)
 
 [Apache Hudi C位！云计算一哥AWS EMR 2020年度回顾](https://mp.weixin.qq.com/s/9Dy5NUgJ-vm386VjOQf0Rw)
@@ -223,6 +225,7 @@
 [官宣！AWS Athena正式可查Apache Hudi数据集](https://mp.weixin.qq.com/s/u_W9VWH4JuBC0hLYBZCPAQ)
 
 ## Apache Hudi源码解读
+
 [Bloom Filter在Hudi中的应用](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484157&amp;idx=1&amp;sn=dc836ddd9b264939144543b21852a15b&amp;chksm=e81f578bdf68de9d1325ee7c40844ea06f9c22196f6e4abc76543bae75b534e7ea3b3dd12023&token=1688466117&lang=zh_CN#rd)
 
 [Upsert在Hudi中的实现分析](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484162&amp;idx=1&amp;sn=1090086c32838ca0b671c5658cf13d2c&amp;chksm=e81f5674df68df62727aecfe3a7d33d659e5fababb82fb1cfc19120863d510a9e0aeb6152170&token=1688466117&lang=zh_CN#rd)
