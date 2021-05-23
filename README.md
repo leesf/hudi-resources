@@ -2,6 +2,8 @@
 
 ## Apache Hudi社区
 
+[恭喜！Apache Hudi社区新晋顶级互联网公司的PMC和Committer](https://mp.weixin.qq.com/s/4YsZKViWJrLBWa84d-aY5Q)
+
 [致广大数据湖用户的一封信](https://mp.weixin.qq.com/s/nxDN15v2cf7evo-vktnh0Q)
 
 [Apache Hudi 0.8.0版本重磅发布](https://mp.weixin.qq.com/s/VDRr7UzpFPC7cLPmyxrGCw)
@@ -35,6 +37,8 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[17张图带你彻底理解Hudi Upsert原理](https://mp.weixin.qq.com/s/BYHwv16A7LAKZMnOZ8y6mA)
 
 [Apache Hudi集成Spark SQL抢先体验](https://mp.weixin.qq.com/s/1ElF9fh5k7j7HD_3HKRDqQ)
 
@@ -93,6 +97,8 @@
 [详解Apache Hudi如何配置各种类型分区](https://mp.weixin.qq.com/s/LUXhVmk2l0xO_cDzbD3fLA)
 
 ## Apache Hudi落地解读
+
+[基于 Apache Hudi 构建实时数据湖在百信银行的实践](https://mp.weixin.qq.com/s/teFKWFYFbyD1yM2d1uyh-g)
 
 [Apache Hudi在Linkflow构建实时数据湖的生产实践](https://mp.weixin.qq.com/s/u--0XnVGXnSK9E7NvrbzuA)
 
