@@ -1,6 +1,8 @@
-![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0523.png)
+![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0530.png)
 
 ## Apache Hudi社区
+
+[对话Apache Hudi VP，洞悉数据湖的过去现在和未来](https://mp.weixin.qq.com/s/bTG5fF93o7NE8DqwuaKCtA)
 
 [恭喜！Apache Hudi社区新晋顶级互联网公司的PMC和Committer](https://mp.weixin.qq.com/s/4YsZKViWJrLBWa84d-aY5Q)
 
