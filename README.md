@@ -40,6 +40,8 @@
 
 ## Apache Hudi入门系列
 
+[一文彻底理解Apache Hudi的清理服务](https://mp.weixin.qq.com/s/jIm0P6GnYXMdG6kyg_8bjA)
+
 [17张图带你彻底理解Hudi Upsert原理](https://mp.weixin.qq.com/s/BYHwv16A7LAKZMnOZ8y6mA)
 
 [Apache Hudi集成Spark SQL抢先体验](https://mp.weixin.qq.com/s/1ElF9fh5k7j7HD_3HKRDqQ)
@@ -139,6 +141,8 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi实战
+
+[Debezium-Flink-Hudi：实时流式CDC](https://mp.weixin.qq.com/s/l5XzXv5lXyfEryG2rk2Wdg)
 
 [在AWS Glue中使用Apache Hudi](https://mp.weixin.qq.com/s/9z4rmokVJJpc14qosXLU8g)
 
