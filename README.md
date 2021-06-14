@@ -142,6 +142,8 @@
 
 ## Apache Hudi实战
 
+[实时数据湖：Flink CDC流式写入Hudi](https://mp.weixin.qq.com/s/JkCbvfJhdz9gT-Tw1pUBIA)
+
 [Debezium-Flink-Hudi：实时流式CDC](https://mp.weixin.qq.com/s/l5XzXv5lXyfEryG2rk2Wdg)
 
 [在AWS Glue中使用Apache Hudi](https://mp.weixin.qq.com/s/9z4rmokVJJpc14qosXLU8g)
