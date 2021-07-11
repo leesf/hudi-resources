@@ -40,6 +40,10 @@
 
 ## Apache Hudi入门系列
 
+[Apache Hudi测试、运维操作万字总结](https://mp.weixin.qq.com/s/pjBc2pi3MFgr2Bta7k0XDw)
+
+[Streaming与Hudi、Hive湖仓一体！](https://mp.weixin.qq.com/s/JG75IFnEg3XIa_yhsJCRuw)
+
 [通过Z-Order技术加速Hudi大规模数据集分析方案](https://mp.weixin.qq.com/s/qos-QGfJbP36qwq9h1lUkQ)
 
 [一文彻底理解Apache Hudi的清理服务](https://mp.weixin.qq.com/s/jIm0P6GnYXMdG6kyg_8bjA)
@@ -103,6 +107,8 @@
 [详解Apache Hudi如何配置各种类型分区](https://mp.weixin.qq.com/s/LUXhVmk2l0xO_cDzbD3fLA)
 
 ## Apache Hudi落地解读
+
+[触宝科技基于Apache Hudi的流批一体架构实践](https://mp.weixin.qq.com/s/LPcWr-o1KWVa-xpAiOwjig)
 
 [基于 Apache Hudi 构建实时数据湖在百信银行的实践](https://mp.weixin.qq.com/s/teFKWFYFbyD1yM2d1uyh-g)
 
