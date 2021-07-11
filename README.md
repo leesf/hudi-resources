@@ -40,6 +40,8 @@
 
 ## Apache Hudi入门系列
 
+[通过Z-Order技术加速Hudi大规模数据集分析方案](https://mp.weixin.qq.com/s/qos-QGfJbP36qwq9h1lUkQ)
+
 [一文彻底理解Apache Hudi的清理服务](https://mp.weixin.qq.com/s/jIm0P6GnYXMdG6kyg_8bjA)
 
 [17张图带你彻底理解Hudi Upsert原理](https://mp.weixin.qq.com/s/BYHwv16A7LAKZMnOZ8y6mA)
@@ -205,6 +207,8 @@
 [Data Lake架构揭秘](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484655&amp;idx=1&amp;sn=f130b356b77027779a6fcb6801f33290&amp;chksm=e81f5199df68d88f72bae107f5749a8ce395c59dabd237daedd831690477886d0a5983537fb6&token=1688466117&lang=zh_CN#rd)
 
 ## Apache Hudi生态
+
+[Apache Hudi在Hopsworks机器学习的应用](https://mp.weixin.qq.com/s/LBZVeOXdR4t4X6aj6X_Lsg)
 
 [基于Apache Hudi 湖仓一体的大数据生态体系](https://mp.weixin.qq.com/s/eNPKXJHeUR2dE1lTyL7d6w)
 
