@@ -2,6 +2,8 @@
 
 ## Apache Hudi社区
 
+[恭喜！Apache Hudi社区新晋多名顶级互联网公司Committer](https://mp.weixin.qq.com/s/d9r63-4XWr2g1L8Nn_JNpg)
+
 [对话Apache Hudi VP，洞悉数据湖的过去现在和未来](https://mp.weixin.qq.com/s/bTG5fF93o7NE8DqwuaKCtA)
 
 [恭喜！Apache Hudi社区新晋顶级互联网公司的PMC和Committer](https://mp.weixin.qq.com/s/4YsZKViWJrLBWa84d-aY5Q)
@@ -107,6 +109,8 @@
 [详解Apache Hudi如何配置各种类型分区](https://mp.weixin.qq.com/s/LUXhVmk2l0xO_cDzbD3fLA)
 
 ## Apache Hudi落地解读
+
+[快手基于Apache Hudi的实践](https://mp.weixin.qq.com/s/aE0OadGV1P8HB5_Ski1VGQ)
 
 [触宝科技基于Apache Hudi的流批一体架构实践](https://mp.weixin.qq.com/s/LPcWr-o1KWVa-xpAiOwjig)
 
