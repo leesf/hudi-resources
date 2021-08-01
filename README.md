@@ -218,6 +218,8 @@
 
 ## Apache Hudi生态
 
+[重磅！AWS升级对Apache Hudi的集成](https://mp.weixin.qq.com/s/LM6h0hydr0pCQiSJfBFYSw)
+
 [Apache Hudi在Hopsworks机器学习的应用](https://mp.weixin.qq.com/s/LBZVeOXdR4t4X6aj6X_Lsg)
 
 [基于Apache Hudi 湖仓一体的大数据生态体系](https://mp.weixin.qq.com/s/eNPKXJHeUR2dE1lTyL7d6w)
