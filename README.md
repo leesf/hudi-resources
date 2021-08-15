@@ -2,6 +2,8 @@
 
 ## Apache Hudi社区
 
+[Apache Hudi：新一代流式数据湖平台](https://mp.weixin.qq.com/s/NKPPDsdk85XJe6w4-kwx9A)
+
 [恭喜！Apache Hudi社区新晋多名顶级互联网公司Committer](https://mp.weixin.qq.com/s/d9r63-4XWr2g1L8Nn_JNpg)
 
 [对话Apache Hudi VP，洞悉数据湖的过去现在和未来](https://mp.weixin.qq.com/s/bTG5fF93o7NE8DqwuaKCtA)
@@ -154,6 +156,8 @@
 
 ## Apache Hudi实战
 
+[Apache Hudi实时入湖之DeltaStreamer最佳实践](https://mp.weixin.qq.com/s/mHuGE452PzTrFp7-IDNihw)
+
 [实时数据湖：Flink CDC流式写入Hudi](https://mp.weixin.qq.com/s/JkCbvfJhdz9gT-Tw1pUBIA)
 
 [Debezium-Flink-Hudi：实时流式CDC](https://mp.weixin.qq.com/s/l5XzXv5lXyfEryG2rk2Wdg)
@@ -217,6 +221,8 @@
 [Data Lake架构揭秘](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484655&amp;idx=1&amp;sn=f130b356b77027779a6fcb6801f33290&amp;chksm=e81f5199df68d88f72bae107f5749a8ce395c59dabd237daedd831690477886d0a5983537fb6&token=1688466117&lang=zh_CN#rd)
 
 ## Apache Hudi生态
+
+[数据湖正当时！华为云MRS重磅集成Apache Hudi](https://mp.weixin.qq.com/s/uPdFB2tVXkjBxJvx25YhQQ)
 
 [重磅！AWS升级对Apache Hudi的集成](https://mp.weixin.qq.com/s/LM6h0hydr0pCQiSJfBFYSw)
 
