@@ -44,6 +44,8 @@
 
 ## Apache Hudi入门系列
 
+[基于Apache Hudi构建数据湖的典型应用场景介绍](https://mp.weixin.qq.com/s/pT9iXtGS4xUOzIkD7rIXJw)
+
 [Apache Hudi测试、运维操作万字总结](https://mp.weixin.qq.com/s/pjBc2pi3MFgr2Bta7k0XDw)
 
 [Streaming与Hudi、Hive湖仓一体！](https://mp.weixin.qq.com/s/JG75IFnEg3XIa_yhsJCRuw)
