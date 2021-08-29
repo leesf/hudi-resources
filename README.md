@@ -114,6 +114,8 @@
 
 ## Apache Hudi落地解读
 
+[字节跳动基于Apache Hudi构建EB级数据湖实践](https://mp.weixin.qq.com/s/oZz_2HzPCWgzxwZO0nuDUQ)
+
 [快手基于Apache Hudi的实践](https://mp.weixin.qq.com/s/aE0OadGV1P8HB5_Ski1VGQ)
 
 [触宝科技基于Apache Hudi的流批一体架构实践](https://mp.weixin.qq.com/s/LPcWr-o1KWVa-xpAiOwjig)
