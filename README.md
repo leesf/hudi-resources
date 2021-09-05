@@ -2,6 +2,8 @@
 
 ## Apache Hudi社区
 
+[Apache Hudi 0.9.0版本重磅发布！更强大的流式数据湖平台](https://mp.weixin.qq.com/s/_5cFgA5y-fk3b50z8XRYZg)
+
 [Apache Hudi：新一代流式数据湖平台](https://mp.weixin.qq.com/s/NKPPDsdk85XJe6w4-kwx9A)
 
 [恭喜！Apache Hudi社区新晋多名顶级互联网公司Committer](https://mp.weixin.qq.com/s/d9r63-4XWr2g1L8Nn_JNpg)
@@ -43,6 +45,8 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[更进一步节省空间！Apache Hudi支持虚拟键](https://mp.weixin.qq.com/s/E7IfnqYJ2IIMjKefVFpkpQ)
 
 [基于Apache Hudi构建数据湖的典型应用场景介绍](https://mp.weixin.qq.com/s/pT9iXtGS4xUOzIkD7rIXJw)
 
@@ -160,6 +164,8 @@
 
 ## Apache Hudi实战
 
+[Apache Hudi数据不知道怎么删除？多种方式快来Get！](https://mp.weixin.qq.com/s/Fww-y1W-56t5B_a81-YAsA)
+
 [Apache Hudi实时入湖之DeltaStreamer最佳实践](https://mp.weixin.qq.com/s/mHuGE452PzTrFp7-IDNihw)
 
 [实时数据湖：Flink CDC流式写入Hudi](https://mp.weixin.qq.com/s/JkCbvfJhdz9gT-Tw1pUBIA)
@@ -213,6 +219,8 @@
 [Apache Hudi表自动同步至阿里云数据湖分析DLA](https://mp.weixin.qq.com/s/zBAYJlsnbbFAjWnmOqjTlQ)
 
 ## 数据湖扩展
+
+[Apache Hudi助力Uber低成本构建开源大数据平台](https://mp.weixin.qq.com/s/P-tYGLl5Gv8QBUrJ12Q-0Q)
 
 [Lakehouse元数据管理技术深度解析](https://mp.weixin.qq.com/s/8GknnV6AYH5Mk83rCII7TQ)
 
@@ -307,5 +315,3 @@
 [Apache Hudi索引实现分析（五）之基于List的IndexFileFilter](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484736&amp;idx=1&amp;sn=123efc79e714f988c63318cae696941d&amp;chksm=e81f5036df68d9207a299ad65a0458ea36b7203a6471a7071fe13b3c4d8053ec821058b16789&token=1688466117&lang=zh_CN#rd)
 
 [详解ApacheHudi如何节约宝贵的存储空间](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484301&amp;idx=1&amp;sn=79cdd0894a9a3af797fdfba7f7656b45&amp;chksm=e81f56fbdf68dfed66c71afcf2dd7026848ce99b24460278387cf4187d2f722ba570b9f26b11&token=1688466117&lang=zh_CN#rd)
-
-
