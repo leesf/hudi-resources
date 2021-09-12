@@ -46,6 +46,8 @@
 
 ## Apache Hudi入门系列
 
+[Apache Hudi内核之文件标记机制深入解析](https://mp.weixin.qq.com/s/pEO9lFyVFpvKk5cl-vF83w)
+
 [更进一步节省空间！Apache Hudi支持虚拟键](https://mp.weixin.qq.com/s/E7IfnqYJ2IIMjKefVFpkpQ)
 
 [基于Apache Hudi构建数据湖的典型应用场景介绍](https://mp.weixin.qq.com/s/pT9iXtGS4xUOzIkD7rIXJw)
@@ -163,6 +165,8 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi实战
+
+[使用 Flink Hudi 构建流式数据湖](https://mp.weixin.qq.com/s/dENepO21H3r5IOrdk7BuSw)
 
 [Apache Hudi数据不知道怎么删除？多种方式快来Get！](https://mp.weixin.qq.com/s/Fww-y1W-56t5B_a81-YAsA)
 
