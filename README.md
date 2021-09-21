@@ -1,4 +1,4 @@
-![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0706.png)
+![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0921.png)
 
 ## Apache Hudi社区
 
@@ -45,6 +45,8 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[一文彻底掌握Apache Hudi异步Clustering部署](https://mp.weixin.qq.com/s/xYtPSTxCmYofe_i2cVHwxQ)
 
 [Apache Hudi内核之文件标记机制深入解析](https://mp.weixin.qq.com/s/pEO9lFyVFpvKk5cl-vF83w)
 
@@ -119,6 +121,8 @@
 [详解Apache Hudi如何配置各种类型分区](https://mp.weixin.qq.com/s/LUXhVmk2l0xO_cDzbD3fLA)
 
 ## Apache Hudi落地解读
+
+[内附PPT下载｜万字干货！阿里云基于Apache Hudi构建Lakehouse实践探索](https://mp.weixin.qq.com/s/fGZdpEECynGWnPJJRgxspw)
 
 [字节跳动基于Apache Hudi构建EB级数据湖实践](https://mp.weixin.qq.com/s/oZz_2HzPCWgzxwZO0nuDUQ)
 
