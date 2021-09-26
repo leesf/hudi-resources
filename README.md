@@ -46,6 +46,8 @@
 
 ## Apache Hudi入门系列
 
+[如何将数据更快导入Apache Hudi？](https://mp.weixin.qq.com/s/yez2xHnw3iB7chripozY0w)
+
 [一文彻底掌握Apache Hudi异步Clustering部署](https://mp.weixin.qq.com/s/xYtPSTxCmYofe_i2cVHwxQ)
 
 [Apache Hudi内核之文件标记机制深入解析](https://mp.weixin.qq.com/s/pEO9lFyVFpvKk5cl-vF83w)
@@ -122,6 +124,8 @@
 
 ## Apache Hudi落地解读
 
+[基于Apache Hudi 的CDC数据入湖](https://mp.weixin.qq.com/s/HejVDANLi7zCZnR606OQ3g)
+
 [内附PPT下载｜万字干货！阿里云基于Apache Hudi构建Lakehouse实践探索](https://mp.weixin.qq.com/s/fGZdpEECynGWnPJJRgxspw)
 
 [字节跳动基于Apache Hudi构建EB级数据湖实践](https://mp.weixin.qq.com/s/oZz_2HzPCWgzxwZO0nuDUQ)
@@ -169,6 +173,8 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi实战
+
+[Flink + Hudi，构架仓湖一体化解决方案](https://mp.weixin.qq.com/s/duPhdr2zMmUUCYUPATX1oQ)
 
 [使用 Flink Hudi 构建流式数据湖](https://mp.weixin.qq.com/s/dENepO21H3r5IOrdk7BuSw)
 
