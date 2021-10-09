@@ -1,4 +1,4 @@
-![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0921.png)
+![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-1009.png)
 
 ## Apache Hudi社区
 
@@ -173,6 +173,8 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi实战
+
+[基于Hudi的流式CDC实践一：听说你准备了面试题？](https://mp.weixin.qq.com/s/l7K2gVgMtCgvak8WKsKbqQ)
 
 [Flink + Hudi，构架仓湖一体化解决方案](https://mp.weixin.qq.com/s/duPhdr2zMmUUCYUPATX1oQ)
 
