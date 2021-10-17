@@ -124,6 +124,10 @@
 
 ## Apache Hudi落地解读
 
+[Apache Hudi在华米科技的应用-湖仓一体化改造](https://mp.weixin.qq.com/s/TJj-2yGySglHgE57vz_ZfA)
+
+[Apache Hudi 在 B 站构建实时数据湖的实践](https://mp.weixin.qq.com/s/RpupQivuIbvn0k2Kn9lUDg)
+
 [基于Apache Hudi 的CDC数据入湖](https://mp.weixin.qq.com/s/HejVDANLi7zCZnR606OQ3g)
 
 [内附PPT下载｜万字干货！阿里云基于Apache Hudi构建Lakehouse实践探索](https://mp.weixin.qq.com/s/fGZdpEECynGWnPJJRgxspw)
