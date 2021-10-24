@@ -124,6 +124,8 @@
 
 ## Apache Hudi落地解读
 
+[37 手游基于 Flink CDC + Hudi 湖仓一体方案实践](https://mp.weixin.qq.com/s/HJ-6ahtDGPr-OgHex4sdwA)
+
 [Apache Hudi在华米科技的应用-湖仓一体化改造](https://mp.weixin.qq.com/s/TJj-2yGySglHgE57vz_ZfA)
 
 [Apache Hudi 在 B 站构建实时数据湖的实践](https://mp.weixin.qq.com/s/RpupQivuIbvn0k2Kn9lUDg)
@@ -177,6 +179,8 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi实战
+
+[硬核！Apache Hudi中自定义序列化和数据写入逻辑](https://mp.weixin.qq.com/s/ZmFZVM1XGEEIpmdpONMHTA)
 
 [基于Hudi的流式CDC实践一：听说你准备了面试题？](https://mp.weixin.qq.com/s/l7K2gVgMtCgvak8WKsKbqQ)
 
