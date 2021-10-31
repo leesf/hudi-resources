@@ -46,6 +46,8 @@
 
 ## Apache Hudi入门系列
 
+[一文彻底弄懂Apache Hudi不同表类型](https://mp.weixin.qq.com/s/xvjgHc27KOvr68Sq1RB59g)
+
 [如何将数据更快导入Apache Hudi？](https://mp.weixin.qq.com/s/yez2xHnw3iB7chripozY0w)
 
 [一文彻底掌握Apache Hudi异步Clustering部署](https://mp.weixin.qq.com/s/xYtPSTxCmYofe_i2cVHwxQ)
@@ -123,6 +125,8 @@
 [详解Apache Hudi如何配置各种类型分区](https://mp.weixin.qq.com/s/LUXhVmk2l0xO_cDzbD3fLA)
 
 ## Apache Hudi落地解读
+
+[顺丰科技 Hudi on Flink 实时数仓实践](https://mp.weixin.qq.com/s/vCWWcWBsy6no1MmN2fQYCQ)
 
 [37 手游基于 Flink CDC + Hudi 湖仓一体方案实践](https://mp.weixin.qq.com/s/HJ-6ahtDGPr-OgHex4sdwA)
 
