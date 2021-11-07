@@ -126,6 +126,8 @@
 
 ## Apache Hudi落地解读
 
+[ByteLake：字节跳动基于Apache Hudi的实时数据湖平台](https://mp.weixin.qq.com/s/oyi6uyyRnmyxEjUsEX7aag)
+
 [顺丰科技 Hudi on Flink 实时数仓实践](https://mp.weixin.qq.com/s/vCWWcWBsy6no1MmN2fQYCQ)
 
 [37 手游基于 Flink CDC + Hudi 湖仓一体方案实践](https://mp.weixin.qq.com/s/HJ-6ahtDGPr-OgHex4sdwA)
