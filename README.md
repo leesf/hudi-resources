@@ -2,6 +2,8 @@
 
 ## Apache Hudi社区
 
+[Apache Hudi PMC畅谈Hudi未来演进之路](https://mp.weixin.qq.com/s/ZNn1xLPHyso2uHaLg1icxQ)
+
 [Apache Hudi 0.9.0版本重磅发布！更强大的流式数据湖平台](https://mp.weixin.qq.com/s/_5cFgA5y-fk3b50z8XRYZg)
 
 [Apache Hudi：新一代流式数据湖平台](https://mp.weixin.qq.com/s/NKPPDsdk85XJe6w4-kwx9A)
@@ -125,6 +127,8 @@
 [详解Apache Hudi如何配置各种类型分区](https://mp.weixin.qq.com/s/LUXhVmk2l0xO_cDzbD3fLA)
 
 ## Apache Hudi落地解读
+
+[Apache Kyuubi + Hudi在 T3 出行的深度实践](https://mp.weixin.qq.com/s/9hDu2DHvL_61gxqMSQ_Tzg)
 
 [ByteLake：字节跳动基于Apache Hudi的实时数据湖平台](https://mp.weixin.qq.com/s/oyi6uyyRnmyxEjUsEX7aag)
 
