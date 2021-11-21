@@ -48,6 +48,8 @@
 
 ## Apache Hudi入门系列
 
+[超详细步骤！整合Apache Hudi + Flink + CDH](https://mp.weixin.qq.com/s/FYPdx3y0nJDA7ErFMqJVZA)
+
 [一文彻底弄懂Apache Hudi不同表类型](https://mp.weixin.qq.com/s/xvjgHc27KOvr68Sq1RB59g)
 
 [如何将数据更快导入Apache Hudi？](https://mp.weixin.qq.com/s/yez2xHnw3iB7chripozY0w)
