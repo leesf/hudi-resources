@@ -1,4 +1,4 @@
-![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-1009.png)
+![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-1128.png)
 
 ## Apache Hudi社区
 
@@ -47,8 +47,6 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
-
-[超详细步骤！整合Apache Hudi + Flink + CDH](https://mp.weixin.qq.com/s/FYPdx3y0nJDA7ErFMqJVZA)
 
 [一文彻底弄懂Apache Hudi不同表类型](https://mp.weixin.qq.com/s/xvjgHc27KOvr68Sq1RB59g)
 
@@ -191,6 +189,12 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi实战
+
+[Hudi实战 | 在CDH 6.3.0上运行HoodieDeltaStreamer](https://mp.weixin.qq.com/s/YVzcLBUfrsCZFZYNSmKMZw)
+
+[Flink CDC + Hudi + Hive + Presto构建实时数据湖最佳实践](https://mp.weixin.qq.com/s/evHkDPlw9UQ0PFxQnZpZ3g)
+
+[超详细步骤！整合Apache Hudi + Flink + CDH](https://mp.weixin.qq.com/s/FYPdx3y0nJDA7ErFMqJVZA)
 
 [硬核！Apache Hudi中自定义序列化和数据写入逻辑](https://mp.weixin.qq.com/s/ZmFZVM1XGEEIpmdpONMHTA)
 
