@@ -130,7 +130,7 @@
 
 [Apache Kyuubi + Hudi在 T3 出行的深度实践](https://mp.weixin.qq.com/s/9hDu2DHvL_61gxqMSQ_Tzg)
 
-[ByteLake：字节跳动基于Apache Hudi的实时数据湖平台](https://mp.weixin.qq.com/s/oyi6uyyRnmyxEjUsEX7aag)
+[字节跳动基于Apache Hudi构建实时数据湖平台实践](https://mp.weixin.qq.com/s/CplrGCZKIaSEa5MauWm8-Q)
 
 [顺丰科技 Hudi on Flink 实时数仓实践](https://mp.weixin.qq.com/s/vCWWcWBsy6no1MmN2fQYCQ)
 
