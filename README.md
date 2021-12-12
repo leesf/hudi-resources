@@ -48,6 +48,8 @@
 
 ## Apache Hudi入门系列
 
+[Apache Hudi与Hive集成手册](https://mp.weixin.qq.com/s/TksSvRC1Hof1Io1iuEpJzQ)
+
 [一文彻底弄懂Apache Hudi不同表类型](https://mp.weixin.qq.com/s/xvjgHc27KOvr68Sq1RB59g)
 
 [如何将数据更快导入Apache Hudi？](https://mp.weixin.qq.com/s/yez2xHnw3iB7chripozY0w)
