@@ -132,6 +132,8 @@
 
 ## Apache Hudi落地解读
 
+[OnZoom基于Apache Hudi的流批一体架构实践](https://mp.weixin.qq.com/s/QYyq6skUc7Yz_Xow3qUd5g)
+
 [移动云基于Apache Hudi湖仓一体的探索与实践](https://mp.weixin.qq.com/s/Ukw2mYyT6gAaBJ8RO7zWGA)
 
 [Apache Kyuubi + Hudi在 T3 出行的深度实践](https://mp.weixin.qq.com/s/9hDu2DHvL_61gxqMSQ_Tzg)
@@ -195,6 +197,8 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi实战
+
+[基于Apache Hudi构建智能湖仓实践（附亚马逊工程师代码）](https://mp.weixin.qq.com/s/x2qVK0lhx9PsqI2SPFn1Iw)
 
 [Hudi实战 | 在CDH 6.3.0上运行HoodieDeltaStreamer](https://mp.weixin.qq.com/s/YVzcLBUfrsCZFZYNSmKMZw)
 
