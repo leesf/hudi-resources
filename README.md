@@ -70,6 +70,8 @@
 
 ## Apache Hudi社区
 
+[来自Apache Hudi PMC Chair的新年大礼包，请注意查收！（附带2021年精选文章集合）](https://mp.weixin.qq.com/s/zQfyHl7Ux8KPSobRHa3Mjw)
+
 [Apache Hudi 0.10.0版本重磅发布！](https://mp.weixin.qq.com/s/UMca2QqGc2eTM3RcKh_SuA)
 
 [Apache Hudi PMC畅谈Hudi未来演进之路](https://mp.weixin.qq.com/s/ZNn1xLPHyso2uHaLg1icxQ)
@@ -200,6 +202,8 @@
 
 
 ## Apache Hudi实战
+
+[查询性能提升3倍！Apache Hudi 查询优化了解下？](https://mp.weixin.qq.com/s/ZjFJaH20y0n-xz_VXt5bxw)
 
 [基于Apache Hudi构建智能湖仓实践（附亚马逊工程师代码）](https://mp.weixin.qq.com/s/x2qVK0lhx9PsqI2SPFn1Iw)
 
