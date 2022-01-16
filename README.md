@@ -1,4 +1,4 @@
-![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-1128.png)
+![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0116.png)
 
 ## Apache Hudi落地解读
 
