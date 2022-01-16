@@ -120,6 +120,8 @@
 
 ## Apache Hudi入门系列
 
+[一文带你了解Lakehouse的并发控制：我们是否过于乐观？](https://mp.weixin.qq.com/s/CqfCx_HCiob0nDNn-ALkCQ)
+
 [Apache Hudi与Hive集成手册](https://mp.weixin.qq.com/s/TksSvRC1Hof1Io1iuEpJzQ)
 
 [一文彻底弄懂Apache Hudi不同表类型](https://mp.weixin.qq.com/s/xvjgHc27KOvr68Sq1RB59g)
