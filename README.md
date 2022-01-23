@@ -120,6 +120,8 @@
 
 ## Apache Hudi入门系列
 
+[超硬核！详解Apache Hudi灵活的Payload机制](https://mp.weixin.qq.com/s/xhZCVHw5WhePDUPKns6J_g)
+
 [一文带你了解Lakehouse的并发控制：我们是否过于乐观？](https://mp.weixin.qq.com/s/CqfCx_HCiob0nDNn-ALkCQ)
 
 [Apache Hudi与Hive集成手册](https://mp.weixin.qq.com/s/TksSvRC1Hof1Io1iuEpJzQ)
