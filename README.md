@@ -2,6 +2,10 @@
 
 ## Apache Hudi落地解读
 
+[字节跳动基于Apache Hudi的数据湖集成实践](https://mp.weixin.qq.com/s/LzgN3IlSplCxmWdhJyQz7Q)
+
+[字节跳动数据湖技术选型的思考](https://mp.weixin.qq.com/s/X3e9SFYzIPAQb72YiN3SOw)
+
 [基于Apache Hudi + Flink的亿级数据入湖实践](https://mp.weixin.qq.com/s/sqDjyCRaXxDhQuVxzup02w)
 
 [OnZoom基于Apache Hudi的流批一体架构实践](https://mp.weixin.qq.com/s/QYyq6skUc7Yz_Xow3qUd5g)
@@ -70,6 +74,10 @@
 
 ## Apache Hudi社区
 
+[Onehouse 对Apache Hudi开源社区的承诺](https://mp.weixin.qq.com/s/Mh6nCzeybFeOcTSq83VcGg)
+
+[重磅！基于Apache Hudi的商业公司Onehouse成立](https://mp.weixin.qq.com/s/v1l8y8mIAwoHXajr46RWyA)
+
 [来自Apache Hudi PMC Chair的新年大礼包，请注意查收！（附带2021年精选文章集合）](https://mp.weixin.qq.com/s/zQfyHl7Ux8KPSobRHa3Mjw)
 
 [Apache Hudi 0.10.0版本重磅发布！](https://mp.weixin.qq.com/s/UMca2QqGc2eTM3RcKh_SuA)
@@ -119,6 +127,8 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[重磅！Vertica集成Apache Hudi指南](https://mp.weixin.qq.com/s/pIsT_XKaWuLSZrzYING6Vg)
 
 [超硬核！详解Apache Hudi灵活的Payload机制](https://mp.weixin.qq.com/s/xhZCVHw5WhePDUPKns6J_g)
 
@@ -206,6 +216,8 @@
 
 
 ## Apache Hudi实战
+
+[使用Apache RocketMQ + Hudi 快速构建 Lakehouse](https://mp.weixin.qq.com/s/NZxfY2gUWLu8744AX9TeOA)
 
 [查询性能提升3倍！Apache Hudi 查询优化了解下？](https://mp.weixin.qq.com/s/ZjFJaH20y0n-xz_VXt5bxw)
 
