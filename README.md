@@ -2,6 +2,10 @@
 
 ## Apache Hudi落地解读
 
+[Apache Hudi Bucket Index 在字节跳动的设计与实践](https://mp.weixin.qq.com/s/TaWTYBYmHsAmcBV3p9d8gQ)
+
+[Robinhood基于Apache Hudi的下一代数据湖实践](https://mp.weixin.qq.com/s/bpd07rk-7GBAXJx2VzS4VA)
+
 [字节跳动基于Apache Hudi的数据湖集成实践](https://mp.weixin.qq.com/s/LzgN3IlSplCxmWdhJyQz7Q)
 
 [字节跳动数据湖技术选型的思考](https://mp.weixin.qq.com/s/X3e9SFYzIPAQb72YiN3SOw)
