@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[基于Apache Hudi和Debezium构建CDC入湖管道](https://mp.weixin.qq.com/s/ydbDCZqP9Dq9MT4FKBgcWw)
+
 [Apache Hudi Bucket Index 在字节跳动的设计与实践](https://mp.weixin.qq.com/s/TaWTYBYmHsAmcBV3p9d8gQ)
 
 [Robinhood基于Apache Hudi的下一代数据湖实践](https://mp.weixin.qq.com/s/bpd07rk-7GBAXJx2VzS4VA)
@@ -131,6 +133,8 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[聊一聊Apache Hudi的原理（1）](https://mp.weixin.qq.com/s/5LQH50gZkNulDMLlcKABeg)
 
 [重磅！Vertica集成Apache Hudi指南](https://mp.weixin.qq.com/s/pIsT_XKaWuLSZrzYING6Vg)
 
