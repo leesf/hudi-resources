@@ -80,6 +80,8 @@
 
 ## Apache Hudi社区
 
+[重磅！Apache Hudi联合传智教育推出免费中文视频教程](https://mp.weixin.qq.com/s/qVzPusiO1hfRXoIkSOln1w)
+
 [Onehouse 对Apache Hudi开源社区的承诺](https://mp.weixin.qq.com/s/Mh6nCzeybFeOcTSq83VcGg)
 
 [重磅！基于Apache Hudi的商业公司Onehouse成立](https://mp.weixin.qq.com/s/v1l8y8mIAwoHXajr46RWyA)
@@ -133,6 +135,8 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[聊一聊Apache Hudi的原理（2）](https://mp.weixin.qq.com/s/tsfSJBwrxMHfSNTiiqU-vQ)
 
 [聊一聊Apache Hudi的原理（1）](https://mp.weixin.qq.com/s/5LQH50gZkNulDMLlcKABeg)
 
