@@ -1,6 +1,8 @@
-![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0116.png)
+![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0327.png)
 
 ## Apache Hudi落地解读
+
+[基于Apache Hudi在Google云平台构建数据湖](https://mp.weixin.qq.com/s/slnhyodTrhrapEjsKDyaCA)
 
 [基于Apache Hudi和Debezium构建CDC入湖管道](https://mp.weixin.qq.com/s/ydbDCZqP9Dq9MT4FKBgcWw)
 
