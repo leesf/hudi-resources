@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[基于 Apache Hudi 构建增量和无限回放事件流的 OLAP 平台](https://mp.weixin.qq.com/s/F3LRw_0E5qMOdwbzsIAICg)
+
 [基于Apache Hudi在Google云平台构建数据湖](https://mp.weixin.qq.com/s/slnhyodTrhrapEjsKDyaCA)
 
 [基于Apache Hudi和Debezium构建CDC入湖管道](https://mp.weixin.qq.com/s/ydbDCZqP9Dq9MT4FKBgcWw)
