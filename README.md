@@ -2,6 +2,10 @@
 
 ## Apache Hudi落地解读
 
+[使用 Apache Flink + Hudi 构建流式数据湖平台](https://mp.weixin.qq.com/s/qWt196zaLRTe5GD2A4fomw)
+
+[Apache Hudi如何加速传统批处理模式？](https://mp.weixin.qq.com/s/NoS8VeYJSZcKQnDVICAorQ)
+
 [基于 Apache Hudi 构建增量和无限回放事件流的 OLAP 平台](https://mp.weixin.qq.com/s/F3LRw_0E5qMOdwbzsIAICg)
 
 [基于Apache Hudi在Google云平台构建数据湖](https://mp.weixin.qq.com/s/slnhyodTrhrapEjsKDyaCA)
