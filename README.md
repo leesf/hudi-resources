@@ -2,6 +2,10 @@
 
 ## Apache Hudi落地解读
 
+[B 站基于Apache Hudi + Flink的增量化探索与实践](https://mp.weixin.qq.com/s/R5fwXKAynBWIro-YwoTCVg)
+
+[印尼医疗龙头企业Halodoc的数据平台转型之路：数据平台V1.0](https://mp.weixin.qq.com/s/kU3f-vtT1qiB5RkrKfAT3w)
+
 [使用 Apache Flink + Hudi 构建流式数据湖平台](https://mp.weixin.qq.com/s/qWt196zaLRTe5GD2A4fomw)
 
 [Apache Hudi如何加速传统批处理模式？](https://mp.weixin.qq.com/s/NoS8VeYJSZcKQnDVICAorQ)
