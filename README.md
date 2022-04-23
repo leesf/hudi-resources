@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[KLOOK客路旅行基于Apache Hudi的数据湖实践](https://mp.weixin.qq.com/s/ldYT3SCLgV0tbppJxYx3DA)
+
 [B 站基于Apache Hudi + Flink的增量化探索与实践](https://mp.weixin.qq.com/s/R5fwXKAynBWIro-YwoTCVg)
 
 [印尼医疗龙头企业Halodoc的数据平台转型之路：数据平台V1.0](https://mp.weixin.qq.com/s/kU3f-vtT1qiB5RkrKfAT3w)
