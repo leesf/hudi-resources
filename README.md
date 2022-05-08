@@ -2,6 +2,10 @@
 
 ## Apache Hudi落地解读
 
+[基于 Flink + Hudi 的实时数仓在 Shopee 的实践](https://mp.weixin.qq.com/s/KwGZqjJhVy9LcPNtcXigYA)
+
+[印尼医疗龙头企业Halodoc的数据平台转型之路：基于Apache Hudi的数据平台V2.0](https://mp.weixin.qq.com/s/QhlXHmPCZ842HbuCcpDxsQ)
+
 [KLOOK客路旅行基于Apache Hudi的数据湖实践](https://mp.weixin.qq.com/s/ldYT3SCLgV0tbppJxYx3DA)
 
 [B 站基于Apache Hudi + Flink的增量化探索与实践](https://mp.weixin.qq.com/s/R5fwXKAynBWIro-YwoTCVg)
@@ -93,6 +97,8 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi社区
+
+[https://mp.weixin.qq.com/s/Pp-dQMaXbqUDmjoQTFcoig](https://mp.weixin.qq.com/s/Pp-dQMaXbqUDmjoQTFcoig)
 
 [重磅！Apache Hudi联合传智教育推出免费中文视频教程](https://mp.weixin.qq.com/s/qVzPusiO1hfRXoIkSOln1w)
 
