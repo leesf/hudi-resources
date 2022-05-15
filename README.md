@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[印尼医疗龙头企业Halodoc的数据平台转型之Lakehouse架构](https://mp.weixin.qq.com/s/kup3yMzROiSubLffnk77Mw)
+
 [基于 Flink + Hudi 的实时数仓在 Shopee 的实践](https://mp.weixin.qq.com/s/KwGZqjJhVy9LcPNtcXigYA)
 
 [印尼医疗龙头企业Halodoc的数据平台转型之路：基于Apache Hudi的数据平台V2.0](https://mp.weixin.qq.com/s/QhlXHmPCZ842HbuCcpDxsQ)
@@ -98,7 +100,7 @@
 
 ## Apache Hudi社区
 
-[https://mp.weixin.qq.com/s/Pp-dQMaXbqUDmjoQTFcoig](https://mp.weixin.qq.com/s/Pp-dQMaXbqUDmjoQTFcoig)
+[Apache Hudi 0.11.0版本重磅发布！](https://mp.weixin.qq.com/s/Pp-dQMaXbqUDmjoQTFcoig)
 
 [重磅！Apache Hudi联合传智教育推出免费中文视频教程](https://mp.weixin.qq.com/s/qVzPusiO1hfRXoIkSOln1w)
 
