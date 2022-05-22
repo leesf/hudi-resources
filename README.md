@@ -2,6 +2,10 @@
 
 ## Apache Hudi落地解读
 
+[字节跳动基于 Apache Hudi 的多流拼接实践](https://mp.weixin.qq.com/s/jb-p4hOnz073ADabJ1Dofw)
+
+[Halodoc使用Apache Hudi构建Lakehouse的关键经验](https://mp.weixin.qq.com/s/DnNnyHXTXS5vKSIcGzZmew)
+
 [印尼医疗龙头企业Halodoc的数据平台转型之Lakehouse架构](https://mp.weixin.qq.com/s/kup3yMzROiSubLffnk77Mw)
 
 [基于 Flink + Hudi 的实时数仓在 Shopee 的实践](https://mp.weixin.qq.com/s/KwGZqjJhVy9LcPNtcXigYA)
