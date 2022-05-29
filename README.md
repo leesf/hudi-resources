@@ -2,6 +2,10 @@
 
 ## Apache Hudi落地解读
 
+[基于Apache Flink + Hudi的增量ETL架构](https://mp.weixin.qq.com/s/UcO8Sk3Qz3TXm896Li9Xtw)
+
+[字节跳动基于Apache Hudi的实时数据湖实践](https://mp.weixin.qq.com/s/X-Ai0X3UDk0KWOgmIkpbpw)
+
 [字节跳动基于 Apache Hudi 的多流拼接实践](https://mp.weixin.qq.com/s/jb-p4hOnz073ADabJ1Dofw)
 
 [Halodoc使用Apache Hudi构建Lakehouse的关键经验](https://mp.weixin.qq.com/s/DnNnyHXTXS5vKSIcGzZmew)
@@ -161,6 +165,8 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[超级重磅！Apache Hudi多模索引对查询优化高达30倍](https://mp.weixin.qq.com/s/kbAFrEppw5f-GFRmfPG4aw)
 
 [聊一聊Apache Hudi的原理（2）](https://mp.weixin.qq.com/s/tsfSJBwrxMHfSNTiiqU-vQ)
 
