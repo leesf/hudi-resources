@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[基于TIS构建Apache Hudi千表入湖方案](https://mp.weixin.qq.com/s/uNnVkvcznDaZToj5fOk9OQ)
+
 [基于Apache Flink + Hudi的增量ETL架构](https://mp.weixin.qq.com/s/UcO8Sk3Qz3TXm896Li9Xtw)
 
 [字节跳动基于Apache Hudi的实时数据湖实践](https://mp.weixin.qq.com/s/X-Ai0X3UDk0KWOgmIkpbpw)
