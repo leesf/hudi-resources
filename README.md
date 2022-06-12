@@ -2,6 +2,10 @@
 
 ## Apache Hudi落地解读
 
+[基于Apache Hudi拉链表的全量表极限存储优化方案](https://mp.weixin.qq.com/s/mQTVjKcAE2FgO6mrZbMRdA)
+
+[腾讯广告业务基于Apache Flink + Hudi的批流一体实践](https://mp.weixin.qq.com/s/xuaW7fYy3QW3eNzoHQejqg)
+
 [基于TIS构建Apache Hudi千表入湖方案](https://mp.weixin.qq.com/s/uNnVkvcznDaZToj5fOk9OQ)
 
 [基于Apache Flink + Hudi的增量ETL架构](https://mp.weixin.qq.com/s/UcO8Sk3Qz3TXm896Li9Xtw)
