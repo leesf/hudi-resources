@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[深入理解Apache Hudi异步索引机制](https://mp.weixin.qq.com/s/AZyPJldSjuP7aI4BxJeDVQ)
+
 [基于Apache Hudi拉链表的全量表极限存储优化方案](https://mp.weixin.qq.com/s/mQTVjKcAE2FgO6mrZbMRdA)
 
 [腾讯广告业务基于Apache Flink + Hudi的批流一体实践](https://mp.weixin.qq.com/s/xuaW7fYy3QW3eNzoHQejqg)
