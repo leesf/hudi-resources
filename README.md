@@ -1,6 +1,8 @@
-![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0327.png)
+![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0626.png)
 
 ## Apache Hudi落地解读
+
+[Apache Hudi数据跳过技术加速查询高达50倍](https://mp.weixin.qq.com/s/IEDdmrYM3-eBS-rvqb0mWg)
 
 [深入理解Apache Hudi异步索引机制](https://mp.weixin.qq.com/s/AZyPJldSjuP7aI4BxJeDVQ)
 
