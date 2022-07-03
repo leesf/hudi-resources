@@ -2,8 +2,6 @@
 
 ## Apache Hudi落地解读
 
-[详解Apache Hudi Schema Evolution(模式演进)](https://mp.weixin.qq.com/s/4ThnSLhp2N8No2_PzaBa9A)
-
 [Apache Hudi数据跳过技术加速查询高达50倍](https://mp.weixin.qq.com/s/IEDdmrYM3-eBS-rvqb0mWg)
 
 [深入理解Apache Hudi异步索引机制](https://mp.weixin.qq.com/s/AZyPJldSjuP7aI4BxJeDVQ)
@@ -177,6 +175,8 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[详解Apache Hudi Schema Evolution(模式演进)](https://mp.weixin.qq.com/s/4ThnSLhp2N8No2_PzaBa9A)
 
 [超级重磅！Apache Hudi多模索引对查询优化高达30倍](https://mp.weixin.qq.com/s/kbAFrEppw5f-GFRmfPG4aw)
 
