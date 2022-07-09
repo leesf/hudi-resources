@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[B站基于Apache Hudi的增量数据湖探索与实践](https://mp.weixin.qq.com/s/kGY3ws-gDQvX2ta1IKURhQ)
+
 [Apache Hudi数据跳过技术加速查询高达50倍](https://mp.weixin.qq.com/s/IEDdmrYM3-eBS-rvqb0mWg)
 
 [深入理解Apache Hudi异步索引机制](https://mp.weixin.qq.com/s/AZyPJldSjuP7aI4BxJeDVQ)
@@ -117,6 +119,8 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi社区
+
+[Apache Hudi vs Delta Lake：透明TPC-DS Lakehouse性能基准](https://mp.weixin.qq.com/s/ouYX7CZHTsgbTNEAlv0xrw)
 
 [Apache Hudi 0.11.0版本重磅发布！](https://mp.weixin.qq.com/s/Pp-dQMaXbqUDmjoQTFcoig)
 
