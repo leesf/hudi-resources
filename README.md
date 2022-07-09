@@ -98,23 +98,23 @@
 
 [Apache Hudi助力nClouds加速数据交付](https://mp.weixin.qq.com/s/kzxgZHjSUQ2stcKrqaUpoQ)
 
-[Apache Hudi：统一批和近实时分析的存储和服务](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484493&amp;idx=1&amp;sn=66ba1de318960b2ea50f7db95aea3f4b&amp;chksm=e81f513bdf68d82d9b656feb267787c1b74cbc03499ffddecf18ece9f6f15cc9678b7c80b74f&token=1688466117&lang=zh_CN#rd)
+[Apache Hudi：统一批和近实时分析的存储和服务](https://mp.weixin.qq.com/s/l7Y8o_CXm-rnXxeMZA6Z4Q)
 
-[贝壳找房利用Hudi构建准实时数仓的实践与挑战](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&mid=2247484149&idx=1&sn=3f222357c7ad844291d0fa29c1c0956a&chksm=e81f5783df68de95e19753910fa793399385217a39312885e48ab78e83d3e9f00689e9194928&token=1889807326&lang=zh_CN#rd)
+[贝壳找房利用Hudi构建准实时数仓的实践与挑战](https://mp.weixin.qq.com/s/npcgFN6GCZsotEOuA8lSEg)
 
-[Uber如何使用Apache Hudi近实时分析全球网络](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484384&amp;idx=1&amp;sn=4237093d9405c81f457a3e3886b1178c&amp;chksm=e81f5696df68df8074bc23fc5c8cd4a10e062ce5d9592781f0a885a94fdf210644ae4b0db156&token=1688466117&lang=zh_CN#rd)
+[Uber如何使用Apache Hudi近实时分析全球网络](https://mp.weixin.qq.com/s/-xizcoDOfca9CyWs6cGNXQ)
 
-[使用Apache Hudi和Debezium构建健壮的CDC管道](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484456&amp;idx=1&amp;sn=fcb720042833eb92d57ec8c221173521&amp;chksm=e81f515edf68d8484f870dce27aeceef297003eaaf096920f1dd110f1887fb30196fad91f9a9&token=1688466117&lang=zh_CN#rd)
+[使用Apache Hudi和Debezium构建健壮的CDC管道](https://mp.weixin.qq.com/s/nbQHRu1dlC8s2tbYvhS_vQ)
 
-[Yotpo基于Apache Hudi构建零延迟数据湖实践](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484287&amp;idx=1&amp;sn=90cfff67d335fe2a5d4974a10c545119&amp;chksm=e81f5609df68df1fef79068550153d8d51025a15a7963f41677a261c7adb31bfccfc7b6a496a&token=1688466117&lang=zh_CN#rd)
+[Yotpo基于Apache Hudi构建零延迟数据湖实践](https://mp.weixin.qq.com/s/JMv2wZdRNvxHsU618l6DlQ)
 
-[电商公司Drop数据湖实践](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484731&amp;idx=1&amp;sn=cf5737be378318e080945d50a1e56368&amp;chksm=e81f504ddf68d95bb9a6aed35f2884ec95da468e9d9ea79d06dd690a6e3bd2d9b727175fd567&token=1688466117&lang=zh_CN#rd)
+[电商公司Drop数据湖实践](https://mp.weixin.qq.com/s/IoeVMBF8B3B6HCajh48xEg)
 
-[在线房产公司Zillow数据迁移至数据湖实践](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484713&amp;idx=1&amp;sn=d4af25ff7c3e0e20d3c3320d76b4d264&amp;chksm=e81f505fdf68d949568ab4b1794cd09a41bc583eacf34fcd68a783f9c17fd60fbbc328a17108&token=1688466117&lang=zh_CN#rd)
+[在线房产公司Zillow数据迁移至数据湖实践](https://mp.weixin.qq.com/s/Q6AfIivff-vxTJlTSlEMjg)
 
-[Apache Hudi在医疗大数据中的应用](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484921&amp;idx=1&amp;sn=b625cbac007c9cb8b9e1c911f140906e&amp;chksm=e81f508fdf68d999507211b76f057eec5d601399590471dc92e03b834eec99b1ef7c7d441b6a&token=1688466117&lang=zh_CN#rd)
+[Apache Hudi在医疗大数据中的应用](https://mp.weixin.qq.com/s/8M-GiwY3TD5CNQHFMzgFrA)
 
-[Uber基于Apache Hudi构建PB级数据湖实践](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&mid=2247484948&idx=1&sn=c6f2a8381f339f8a6fbc8c9570a219f5&chksm=e81f5362df68da74634b8269a97a8bbd837bd48a6a1a9715850972ab5f0e1c0910ebac624589&token=1875876260&lang=zh_CN#rd)
+[Uber基于Apache Hudi构建PB级数据湖实践](https://mp.weixin.qq.com/s/5T4XloFu6xriOy3V_cAvIA)
 
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
