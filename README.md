@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[基于 Apache Hudi 构建分析型数据湖](https://mp.weixin.qq.com/s/z6KsSu0WaDTUYqDVC1TIyQ)
+
 [B站基于Apache Hudi的增量数据湖探索与实践](https://mp.weixin.qq.com/s/kGY3ws-gDQvX2ta1IKURhQ)
 
 [Apache Hudi数据跳过技术加速查询高达50倍](https://mp.weixin.qq.com/s/IEDdmrYM3-eBS-rvqb0mWg)
