@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[基于 Apache Hudi + dbt 构建开放的Lakehouse](https://mp.weixin.qq.com/s/-OyZmDTZgo5u7CMT1XrEPw)
+
 [基于 Apache Hudi 构建分析型数据湖](https://mp.weixin.qq.com/s/z6KsSu0WaDTUYqDVC1TIyQ)
 
 [B站基于Apache Hudi的增量数据湖探索与实践](https://mp.weixin.qq.com/s/kGY3ws-gDQvX2ta1IKURhQ)
