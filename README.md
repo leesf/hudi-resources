@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[基于Apache Hudi 和 Microsoft Azure构建Lakehouse指南](https://mp.weixin.qq.com/s/l4DmUhJWUXJ0EvSmKFxXkQ)
+
 [基于 Apache Hudi + dbt 构建开放的Lakehouse](https://mp.weixin.qq.com/s/-OyZmDTZgo5u7CMT1XrEPw)
 
 [基于 Apache Hudi 构建分析型数据湖](https://mp.weixin.qq.com/s/z6KsSu0WaDTUYqDVC1TIyQ)
