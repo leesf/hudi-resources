@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[使用 Apache Flink 和 Apache Hudi 创建低延迟数据湖管道](https://mp.weixin.qq.com/s/MNnCXxeoZd9F8x3dRlEVEw)
+
 [基于Apache Hudi的多库多表实时入湖最佳实践](https://mp.weixin.qq.com/s/1WkzdrAH4MB5XS1Dp6FivA)
 
 [基于Apache Hudi 和 Microsoft Azure构建Lakehouse指南](https://mp.weixin.qq.com/s/l4DmUhJWUXJ0EvSmKFxXkQ)
