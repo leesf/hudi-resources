@@ -132,6 +132,8 @@
 
 ## Apache Hudi社区
 
+[Apache Hudi 0.12.0版本重磅发布！](https://mp.weixin.qq.com/s/M09TkcojE2uHplMEiiSOnA)
+
 [Apache Hudi vs Delta Lake：透明TPC-DS Lakehouse性能基准](https://mp.weixin.qq.com/s/ouYX7CZHTsgbTNEAlv0xrw)
 
 [Apache Hudi 0.11.0版本重磅发布！](https://mp.weixin.qq.com/s/Pp-dQMaXbqUDmjoQTFcoig)
