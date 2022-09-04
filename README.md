@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[使用 Apache Hudi 实现 SCD-2（渐变维度）](https://mp.weixin.qq.com/s/e4MgGY4pFcVkgjAmrhW5Bw)
+
 [基于 Apache Hudi + Presto + AWS S3 构建开放Lakehouse](https://mp.weixin.qq.com/s/EF-T46xKVnAAAjKQW2_Wtg)
 
 [使用 Apache Flink 和 Apache Hudi 创建低延迟数据湖管道](https://mp.weixin.qq.com/s/MNnCXxeoZd9F8x3dRlEVEw)
