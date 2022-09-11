@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[字节跳动基于Apache Doris + Hudi的湖仓分析探索实践](https://mp.weixin.qq.com/s/0goEVO554PgAbKjC4p4V1A)
+
 [使用 Apache Hudi 实现 SCD-2（渐变维度）](https://mp.weixin.qq.com/s/e4MgGY4pFcVkgjAmrhW5Bw)
 
 [基于 Apache Hudi + Presto + AWS S3 构建开放Lakehouse](https://mp.weixin.qq.com/s/EF-T46xKVnAAAjKQW2_Wtg)
