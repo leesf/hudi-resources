@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[基于 Apache Hudi 的湖仓一体技术在 Shopee 的实践](https://mp.weixin.qq.com/s/7aUj0IWE9ArFSg4gubVmwg)
+
 [字节跳动基于Apache Doris + Hudi的湖仓分析探索实践](https://mp.weixin.qq.com/s/0goEVO554PgAbKjC4p4V1A)
 
 [使用 Apache Hudi 实现 SCD-2（渐变维度）](https://mp.weixin.qq.com/s/e4MgGY4pFcVkgjAmrhW5Bw)
