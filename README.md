@@ -2,6 +2,10 @@
 
 ## Apache Hudi落地解读
 
+[字节跳动基于 Apache Hudi 构建实时数仓的实践](https://mp.weixin.qq.com/s/ERer9pYTRPPaafVSKP3m2A)
+
+[华为云 MRS 基于 Apache Hudi 极致查询优化的探索实践](https://mp.weixin.qq.com/s/fi80UhvTLsiXL32IXm5SvA)
+
 [基于 Apache Hudi 的湖仓一体技术在 Shopee 的实践](https://mp.weixin.qq.com/s/7aUj0IWE9ArFSg4gubVmwg)
 
 [字节跳动基于Apache Doris + Hudi的湖仓分析探索实践](https://mp.weixin.qq.com/s/0goEVO554PgAbKjC4p4V1A)
