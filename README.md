@@ -6,7 +6,7 @@
 
 [基于Apache Hudi + Linkis构建数据湖实践](https://mp.weixin.qq.com/s/Za48XIWYifjXyCfJNxFCoA)
 
-[万字长文：基于Apache Hudi + Flink多流拼接(大宽表)最佳实践]https://mp.weixin.qq.com/s/BXMbOk6-AGQQElvVWjVWLA
+[万字长文：基于Apache Hudi + Flink多流拼接(大宽表)最佳实践](https://mp.weixin.qq.com/s/BXMbOk6-AGQQElvVWjVWLA)
 
 [字节跳动基于 Apache Hudi 构建实时数仓的实践](https://mp.weixin.qq.com/s/ERer9pYTRPPaafVSKP3m2A)
 
