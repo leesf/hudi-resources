@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[Apache Hudi + Flink的实时数据湖实践探索](https://mp.weixin.qq.com/s/ekEoFvIi-txh6s271FQKTg)
+
 [基于Apache Hudi + MinIO 构建流式数据湖](https://mp.weixin.qq.com/s/jBciMVsdWmRHRjEyyckQlQ)
 
 [基于Apache Hudi + Linkis构建数据湖实践](https://mp.weixin.qq.com/s/Za48XIWYifjXyCfJNxFCoA)
