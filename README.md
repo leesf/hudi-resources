@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[从 Apache Kudu 迁移到 Apache Hudi](https://mp.weixin.qq.com/s/VwEQJqgum8UA9pAgvphcYQ)
+
 [硬核！Apache Hudi Schema演变深度分析与应用](https://mp.weixin.qq.com/s/rSW864o2YEbHw6oQ4Lsq0Q)
 
 [Apache Hudi + Flink的实时数据湖实践探索](https://mp.weixin.qq.com/s/ekEoFvIi-txh6s271FQKTg)
