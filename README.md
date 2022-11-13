@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[Flink SQL操作Apache Hudi并同步Hive使用总结](https://mp.weixin.qq.com/s/Lx2Pejkibzs30daElLKTNA)
+
 [从 Apache Kudu 迁移到 Apache Hudi](https://mp.weixin.qq.com/s/VwEQJqgum8UA9pAgvphcYQ)
 
 [硬核！Apache Hudi Schema演变深度分析与应用](https://mp.weixin.qq.com/s/rSW864o2YEbHw6oQ4Lsq0Q)
@@ -388,6 +390,8 @@
 [Apache Hudi表自动同步至阿里云数据湖分析DLA](https://mp.weixin.qq.com/s/zBAYJlsnbbFAjWnmOqjTlQ)
 
 ## 数据湖扩展
+
+[Lakehouse架构指南](https://mp.weixin.qq.com/s/GJpGlpeUW8kV4vvs2PwCYQ)
 
 [Apache Hudi助力Uber低成本构建开源大数据平台](https://mp.weixin.qq.com/s/P-tYGLl5Gv8QBUrJ12Q-0Q)
 
