@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[强强联合！StarRocks 支持 Apache Hudi](https://mp.weixin.qq.com/s/OhPPDtRH7knAq3FrY-0Avg)
+
 [Flink SQL操作Apache Hudi并同步Hive使用总结](https://mp.weixin.qq.com/s/Lx2Pejkibzs30daElLKTNA)
 
 [从 Apache Kudu 迁移到 Apache Hudi](https://mp.weixin.qq.com/s/VwEQJqgum8UA9pAgvphcYQ)
