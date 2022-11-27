@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[医疗在线OLAP场景下基于Apache Hudi 模式演变的改造与应用](https://mp.weixin.qq.com/s/G72_7ZDjrAK6VkYyKxXdEA)
+
 [强强联合！StarRocks 支持 Apache Hudi](https://mp.weixin.qq.com/s/OhPPDtRH7knAq3FrY-0Avg)
 
 [Flink SQL操作Apache Hudi并同步Hive使用总结](https://mp.weixin.qq.com/s/Lx2Pejkibzs30daElLKTNA)
