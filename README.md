@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[Apache Hudi在腾讯的落地与应用](https://mp.weixin.qq.com/s/OCLIso3oHvpGBB10fuuTyw)
+
 [医疗在线OLAP场景下基于Apache Hudi 模式演变的改造与应用](https://mp.weixin.qq.com/s/G72_7ZDjrAK6VkYyKxXdEA)
 
 [强强联合！StarRocks 支持 Apache Hudi](https://mp.weixin.qq.com/s/OhPPDtRH7knAq3FrY-0Avg)
