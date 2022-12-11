@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[一文聊透Apache Hudi的索引设计与应用](https://mp.weixin.qq.com/s/_490DRB3blmPO_3oaGeFdg)
+
 [Apache Hudi在腾讯的落地与应用](https://mp.weixin.qq.com/s/OCLIso3oHvpGBB10fuuTyw)
 
 [医疗在线OLAP场景下基于Apache Hudi 模式演变的改造与应用](https://mp.weixin.qq.com/s/G72_7ZDjrAK6VkYyKxXdEA)
