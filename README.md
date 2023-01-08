@@ -421,6 +421,8 @@
 
 ## Apache Hudi生态
 
+[腾讯云DLC(数据湖计算)重磅支持Apache Hudi](https://mp.weixin.qq.com/s/RA245R4hvbG6jZJ2xzx8PA)
+
 [数据湖正当时！华为云MRS重磅集成Apache Hudi](https://mp.weixin.qq.com/s/uPdFB2tVXkjBxJvx25YhQQ)
 
 [重磅！AWS升级对Apache Hudi的集成](https://mp.weixin.qq.com/s/LM6h0hydr0pCQiSJfBFYSw)
