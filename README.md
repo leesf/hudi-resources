@@ -2,6 +2,10 @@
 
 ## Apache Hudi落地解读
 
+[流利说基于Apache Hudi构建实时数仓的实践](https://mp.weixin.qq.com/s/5MawJlbU72w1Q10uaP4aBg)
+
+[基于Apache Hudi 构建Serverless实时分析平台](https://mp.weixin.qq.com/s/BMkW7mcJne7mP8NCygGA-Q)
+
 [阿里云ADB基于Hudi构建Lakehouse的实践](https://mp.weixin.qq.com/s/Q7GqUYjcE2HASqnz3XGb0g)
 
 [基于Flink+Hudi在兴盛优选营销域实时数仓的实践](https://mp.weixin.qq.com/s/oKjWkolB09dOozJgCokKOg)
@@ -167,6 +171,8 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi社区
+
+[年度合集！Apache Hudi 技术文章一次看个够](https://mp.weixin.qq.com/s/EDTwSnGQuK4JOgn2xLuIOw)
 
 [Apache Hudi 0.12.0版本重磅发布！](https://mp.weixin.qq.com/s/M09TkcojE2uHplMEiiSOnA)
 
