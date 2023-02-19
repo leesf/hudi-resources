@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[Apache Hudi 流转批 场景实践](https://mp.weixin.qq.com/s/pZL1rgnjdvAh2AQQZKJ3nA)
+
 [流利说基于Apache Hudi构建实时数仓的实践](https://mp.weixin.qq.com/s/5MawJlbU72w1Q10uaP4aBg)
 
 [基于Apache Hudi 构建Serverless实时分析平台](https://mp.weixin.qq.com/s/BMkW7mcJne7mP8NCygGA-Q)
