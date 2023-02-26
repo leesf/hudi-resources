@@ -240,6 +240,8 @@
 
 ## Apache Hudi入门系列
 
+[Apache Hudi 负载类Payload使用案例剖析](https://mp.weixin.qq.com/s/QOA9JqrSFxNWA34TBgbH4g)
+
 [详解Apache Hudi Schema Evolution(模式演进)](https://mp.weixin.qq.com/s/4ThnSLhp2N8No2_PzaBa9A)
 
 [超级重磅！Apache Hudi多模索引对查询优化高达30倍](https://mp.weixin.qq.com/s/kbAFrEppw5f-GFRmfPG4aw)
