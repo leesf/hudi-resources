@@ -174,6 +174,8 @@
 
 ## Apache Hudi社区
 
+[Apache Hudi 0.13.0版本重磅发布！](https://mp.weixin.qq.com/s/kNZKAKcV2mE0Ow3mOrwdnA)
+
 [Apache Hudi 背后商业公司Onehouse宣布2500万美元A轮融资](https://mp.weixin.qq.com/s/rl98tcpUrujCtpsOYLvMCA)
 
 [年度合集！Apache Hudi 技术文章一次看个够](https://mp.weixin.qq.com/s/EDTwSnGQuK4JOgn2xLuIOw)
