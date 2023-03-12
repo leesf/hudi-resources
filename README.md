@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[基于Apache Hudi 构建流式增量数仓—CDC](https://mp.weixin.qq.com/s/H2hEUl2Xj2G_VnSMjIkStw)
+
 [Apache Hudi 流转批 场景实践](https://mp.weixin.qq.com/s/pZL1rgnjdvAh2AQQZKJ3nA)
 
 [流利说基于Apache Hudi构建实时数仓的实践](https://mp.weixin.qq.com/s/5MawJlbU72w1Q10uaP4aBg)
