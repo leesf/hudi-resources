@@ -176,6 +176,8 @@
 
 ## Apache Hudi社区
 
+[Onetable：统一的表格式元数据表示](https://mp.weixin.qq.com/s/Sq2cR6mpLX7hkiKV7efYfA)
+
 [Apache Hudi 0.13.0版本重磅发布！](https://mp.weixin.qq.com/s/kNZKAKcV2mE0Ow3mOrwdnA)
 
 [Apache Hudi 背后商业公司Onehouse宣布2500万美元A轮融资](https://mp.weixin.qq.com/s/rl98tcpUrujCtpsOYLvMCA)
