@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[Uber基于Apache Hudi增量 ETL 构建大规模数据湖](https://mp.weixin.qq.com/s/2KdZl8INu_Mn6Rq6YT5VRw)
+
 [基于Apache Hudi 构建流式增量数仓—CDC](https://mp.weixin.qq.com/s/H2hEUl2Xj2G_VnSMjIkStw)
 
 [Apache Hudi 流转批 场景实践](https://mp.weixin.qq.com/s/pZL1rgnjdvAh2AQQZKJ3nA)
