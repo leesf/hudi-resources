@@ -250,6 +250,8 @@
 
 ## Apache Hudi入门系列
 
+[探索Apache Hudi核心概念 (2) - File Sizing](https://mp.weixin.qq.com/s/co4f0_DiJ78JXvWzf5cAww)
+
 [探索Apache Hudi核心概念 (1) - File Layouts](https://mp.weixin.qq.com/s/n_Kd6FhWs4_QZN_gmAuPhw)
 
 [Apache Hudi 负载类Payload使用案例剖析](https://mp.weixin.qq.com/s/QOA9JqrSFxNWA34TBgbH4g)
