@@ -250,6 +250,8 @@
 
 ## Apache Hudi入门系列
 
+[探索Apache Hudi核心概念 (4) - Clustering](https://mp.weixin.qq.com/s/Te2zaF6AoJuTxY8ILzxlQg)
+
 [探索Apache Hudi核心概念 (3) - Compaction](https://mp.weixin.qq.com/s/C5Nttr9QPmgVNyQFAO4J_Q)
 
 [探索Apache Hudi核心概念 (2) - File Sizing](https://mp.weixin.qq.com/s/co4f0_DiJ78JXvWzf5cAww)
