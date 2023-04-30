@@ -250,6 +250,8 @@
 
 ## Apache Hudi入门系列
 
+[使用 Bucket Index 加速Apache Hudi 写入](https://mp.weixin.qq.com/s/zGoPJLebgrioyVxwRSfE6A)
+
 [探索Apache Hudi核心概念 (4) - Clustering](https://mp.weixin.qq.com/s/Te2zaF6AoJuTxY8ILzxlQg)
 
 [探索Apache Hudi核心概念 (3) - Compaction](https://mp.weixin.qq.com/s/C5Nttr9QPmgVNyQFAO4J_Q)
