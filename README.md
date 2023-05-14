@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[日增数据超10PB！揭秘沃尔玛Lakehouse架构选型之路](https://mp.weixin.qq.com/s/D3dneir3AzfzzHiTJ5kOzA)
+
 [干货 | 字节跳动基于 Apache Hudi 的数据湖实战解析](https://mp.weixin.qq.com/s/9UFrWdYsvwUBJVNMzgQyoQ)
 
 [Uber基于Apache Hudi增量 ETL 构建大规模数据湖](https://mp.weixin.qq.com/s/2KdZl8INu_Mn6Rq6YT5VRw)
