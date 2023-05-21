@@ -252,6 +252,8 @@
 
 ## Apache Hudi入门系列
 
+[提升 Apache Hudi Upsert 性能的三个建议](https://mp.weixin.qq.com/s/izx6aZ0U8H8QNsRved_D6Q)
+
 [使用 Bucket Index 加速Apache Hudi 写入](https://mp.weixin.qq.com/s/zGoPJLebgrioyVxwRSfE6A)
 
 [探索Apache Hudi核心概念 (4) - Clustering](https://mp.weixin.qq.com/s/Te2zaF6AoJuTxY8ILzxlQg)
