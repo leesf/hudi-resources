@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[Zoom 基于Apache Hudi 的流式日志处理实践](https://mp.weixin.qq.com/s/aGQ3dhZKy_cS9fdt6yFhIQ)
+
 [日增数据超10PB！揭秘沃尔玛Lakehouse架构选型之路](https://mp.weixin.qq.com/s/D3dneir3AzfzzHiTJ5kOzA)
 
 [干货 | 字节跳动基于 Apache Hudi 的数据湖实战解析](https://mp.weixin.qq.com/s/9UFrWdYsvwUBJVNMzgQyoQ)
