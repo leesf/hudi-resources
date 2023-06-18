@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[华为云基于Apache Hudi实时数据湖的查询优化](https://mp.weixin.qq.com/s/zkn_uKZu2Yb_0zhazuJ7eQ)
+
 [华为基于Hudi构建的实时数据湖架构与实践](https://mp.weixin.qq.com/s/scp9-miAI6jRLQ4gcTPBqg)
 
 [Zoom 基于Apache Hudi 的流式日志处理实践](https://mp.weixin.qq.com/s/aGQ3dhZKy_cS9fdt6yFhIQ)
