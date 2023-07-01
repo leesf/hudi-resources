@@ -260,6 +260,8 @@
 
 ## Apache Hudi入门系列
 
+[如何不加锁地将数据并发写入Apache Hudi？](https://mp.weixin.qq.com/s/mNN45jdDzuHZlMJhQx0eCw)
+
 [Apache Hudi 元数据字段揭秘](https://mp.weixin.qq.com/s/n4et91775I5uj3i-xW8h0A)
 
 [提升 Apache Hudi Upsert 性能的三个建议](https://mp.weixin.qq.com/s/izx6aZ0U8H8QNsRved_D6Q)
