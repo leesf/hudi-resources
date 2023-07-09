@@ -260,6 +260,8 @@
 
 ## Apache Hudi入门系列
 
+[Apache Hudi Timeline Server介绍](https://mp.weixin.qq.com/s/OdegASZwfaqt4kmNhW_upg)
+
 [如何不加锁地将数据并发写入Apache Hudi？](https://mp.weixin.qq.com/s/mNN45jdDzuHZlMJhQx0eCw)
 
 [Apache Hudi 元数据字段揭秘](https://mp.weixin.qq.com/s/n4et91775I5uj3i-xW8h0A)
