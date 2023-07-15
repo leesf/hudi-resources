@@ -453,6 +453,8 @@
 
 ## 数据湖扩展
 
+[加速LakeHouse ACID Upsert的新写时复制方案](https://mp.weixin.qq.com/s/lCkGL6uCFF-3dPA7FPLS3Q)
+
 [一个理想的数据湖应具备哪些功能？](https://mp.weixin.qq.com/s/IEB33gkBfV84Q1pEDXuWJQ)
 
 [Lakehouse架构指南](https://mp.weixin.qq.com/s/GJpGlpeUW8kV4vvs2PwCYQ)
