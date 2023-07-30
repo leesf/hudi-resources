@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[数据湖在快手的生产实践](https://mp.weixin.qq.com/s/1knhLzpijUDVLvdxpHKj0w)
+
 [华为云基于Apache Hudi实时数据湖的查询优化](https://mp.weixin.qq.com/s/zkn_uKZu2Yb_0zhazuJ7eQ)
 
 [华为基于Hudi构建的实时数据湖架构与实践](https://mp.weixin.qq.com/s/scp9-miAI6jRLQ4gcTPBqg)
