@@ -262,6 +262,8 @@
 
 ## Apache Hudi入门系列
 
+[CDC一键入湖：当 Apache Hudi DeltaStreamer 遇见 Serverless Spark](https://mp.weixin.qq.com/s/8L0XcWMQrhFR1MIgAT4XbQ)
+
 [Apache Hudi Timeline Server介绍](https://mp.weixin.qq.com/s/OdegASZwfaqt4kmNhW_upg)
 
 [如何不加锁地将数据并发写入Apache Hudi？](https://mp.weixin.qq.com/s/mNN45jdDzuHZlMJhQx0eCw)
