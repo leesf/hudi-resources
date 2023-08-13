@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[万字长文 | 泰康人寿基于 Apache Hudi 构建湖仓一体平台的应用实践](https://mp.weixin.qq.com/s/2sVK9wYZQNwLDHXQ2zT4cg)
+
 [数据湖在快手的生产实践](https://mp.weixin.qq.com/s/1knhLzpijUDVLvdxpHKj0w)
 
 [华为云基于Apache Hudi实时数据湖的查询优化](https://mp.weixin.qq.com/s/zkn_uKZu2Yb_0zhazuJ7eQ)
