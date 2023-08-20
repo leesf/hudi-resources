@@ -264,6 +264,8 @@
 
 ## Apache Hudi入门系列
 
+[Apache Hudi Timeline：支持 ACID 事务的基础](https://mp.weixin.qq.com/s/km8YJ1hneb1AclWgjf97wA)
+
 [CDC一键入湖：当 Apache Hudi DeltaStreamer 遇见 Serverless Spark](https://mp.weixin.qq.com/s/8L0XcWMQrhFR1MIgAT4XbQ)
 
 [Apache Hudi Timeline Server介绍](https://mp.weixin.qq.com/s/OdegASZwfaqt4kmNhW_upg)
