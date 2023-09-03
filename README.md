@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[亚信科技基于Apache Hudi向湖仓一体架构的演进研究](https://mp.weixin.qq.com/s/PovVZFvZZdxPciOPnEb4wA)
+
 [字节跳动基于 Apache Hudi 的湖仓一体方案及应用实践](https://mp.weixin.qq.com/s/JLToe8jsaA12putpQ0TuKA)
 
 [万字长文 | 泰康人寿基于 Apache Hudi 构建湖仓一体平台的应用实践](https://mp.weixin.qq.com/s/2sVK9wYZQNwLDHXQ2zT4cg)
