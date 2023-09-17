@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[Lambda架构向湖仓一体架构演进的的实时电商数仓建设](https://mp.weixin.qq.com/s/NI1aYoRUgUWRYt_SkqUeHQ)
+
 [B站基于Hudi+Flink打造流式数据湖的落地实践](https://mp.weixin.qq.com/s/xOq_IBZnd5VzB_Qtp-5BFg)
 
 [亚信科技基于Apache Hudi向湖仓一体架构的演进研究](https://mp.weixin.qq.com/s/PovVZFvZZdxPciOPnEb4wA)
