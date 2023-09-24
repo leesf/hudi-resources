@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[阿里云AnalyticDB基于Flink CDC+Hudi实现多表全增量入湖实践](https://mp.weixin.qq.com/s/gjIohCWDjmVoryTRY3XF9w)
+
 [Lambda架构向湖仓一体架构演进的的实时电商数仓建设](https://mp.weixin.qq.com/s/NI1aYoRUgUWRYt_SkqUeHQ)
 
 [B站基于Hudi+Flink打造流式数据湖的落地实践](https://mp.weixin.qq.com/s/xOq_IBZnd5VzB_Qtp-5BFg)
