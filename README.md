@@ -204,6 +204,8 @@
 
 ## Apache Hudi社区
 
+[Apache Hudi 0.14.0版本重磅发布！](https://mp.weixin.qq.com/s/ATf-92UzW5iOGXYODYn0ug)
+
 [Apache Hudi 1.x 版本重磅功能展望与讨论](https://mp.weixin.qq.com/s/zRwMgR2z3CvKjskChnlCnQ)
 
 [Onetable：统一的表格式元数据表示](https://mp.weixin.qq.com/s/Sq2cR6mpLX7hkiKV7efYfA)
