@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[干货 | 节约60%开发工时，离在线一体化数仓系统在携程旅游的落地实践](https://mp.weixin.qq.com/s/TOG7XbD5VXLUiByhPOTm5w)
+
 [字节电商场景基于Apache Hudi的落湖实践](https://mp.weixin.qq.com/s/ZwdV8nkWKufKc6V3CqeYbA)
 
 [阿里云AnalyticDB基于Flink CDC+Hudi实现多表全增量入湖实践](https://mp.weixin.qq.com/s/gjIohCWDjmVoryTRY3XF9w)
