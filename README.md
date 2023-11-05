@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[Apache Hudi在信息服务行业构建流批一体的实践](https://mp.weixin.qq.com/s/OnkbLWBw0kAEJmrrQMIHKw)
+
 [快手基于Apache Hudi流批一体数据湖构建实践](https://mp.weixin.qq.com/s/h5FOr8cLQTnL-8UXPE6JLw)
 
 [干货 | 节约60%开发工时，离在线一体化数仓系统在携程旅游的落地实践](https://mp.weixin.qq.com/s/TOG7XbD5VXLUiByhPOTm5w)
