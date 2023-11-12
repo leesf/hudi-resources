@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[农业银行湖仓一体实时数仓建设探索实践](https://mp.weixin.qq.com/s/s5REBS4rs8e7kBUBU1Fvyg)
+
 [Apache Hudi在信息服务行业构建流批一体的实践](https://mp.weixin.qq.com/s/OnkbLWBw0kAEJmrrQMIHKw)
 
 [快手基于Apache Hudi流批一体数据湖构建实践](https://mp.weixin.qq.com/s/h5FOr8cLQTnL-8UXPE6JLw)
