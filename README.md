@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[湖仓全链路在跨境电商的落地实践](https://mp.weixin.qq.com/s/nRXWhT3JI0FbPK4EYK1i7w)
+
 [农业银行湖仓一体实时数仓建设探索实践](https://mp.weixin.qq.com/s/s5REBS4rs8e7kBUBU1Fvyg)
 
 [Apache Hudi在信息服务行业构建流批一体的实践](https://mp.weixin.qq.com/s/OnkbLWBw0kAEJmrrQMIHKw)
@@ -211,6 +213,8 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi社区
+
+[重磅！Onehouse 携手微软、谷歌宣布开源 OneTable](https://mp.weixin.qq.com/s/XuxyBKawPolj99gBJVi_Bw)
 
 [Apache Hudi 0.14.0版本重磅发布！](https://mp.weixin.qq.com/s/ATf-92UzW5iOGXYODYn0ug)
 
