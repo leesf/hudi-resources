@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[浅谈G行数据湖平台建设](https://mp.weixin.qq.com/s/MM1CXtzicBLR4-iK7AzYGA)
+
 [湖仓全链路在跨境电商的落地实践](https://mp.weixin.qq.com/s/nRXWhT3JI0FbPK4EYK1i7w)
 
 [农业银行湖仓一体实时数仓建设探索实践](https://mp.weixin.qq.com/s/s5REBS4rs8e7kBUBU1Fvyg)
