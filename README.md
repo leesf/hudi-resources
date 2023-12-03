@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[美团基于Apache Hudi构建增量数仓实践](https://mp.weixin.qq.com/s/tju88JMyGJQFP72xgrsccw)
+
 [浅谈G行数据湖平台建设](https://mp.weixin.qq.com/s/MM1CXtzicBLR4-iK7AzYGA)
 
 [湖仓全链路在跨境电商的落地实践](https://mp.weixin.qq.com/s/nRXWhT3JI0FbPK4EYK1i7w)
