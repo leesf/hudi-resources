@@ -294,6 +294,8 @@
 
 ## Apache Hudi入门系列
 
+[记录级别索引：Apache Hudi 针对大型数据集的超快索引](https://mp.weixin.qq.com/s/E8GOANEgQD_Jooi0GJh_1Q)
+
 [Apache Hudi Timeline：支持 ACID 事务的基础](https://mp.weixin.qq.com/s/km8YJ1hneb1AclWgjf97wA)
 
 [CDC一键入湖：当 Apache Hudi DeltaStreamer 遇见 Serverless Spark](https://mp.weixin.qq.com/s/8L0XcWMQrhFR1MIgAT4XbQ)
