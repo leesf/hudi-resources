@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[火山引擎数据湖存储内核揭秘](https://mp.weixin.qq.com/s/KtO5RxkR2dEoA_ujhQ4gYw)
+
 [美团基于Apache Hudi构建增量数仓实践](https://mp.weixin.qq.com/s/tju88JMyGJQFP72xgrsccw)
 
 [浅谈G行数据湖平台建设](https://mp.weixin.qq.com/s/MM1CXtzicBLR4-iK7AzYGA)
