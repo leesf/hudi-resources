@@ -298,6 +298,8 @@
 
 ## Apache Hudi入门系列
 
+[Apache Hudi从零到一：存储格式初探（一）](https://mp.weixin.qq.com/s/mBHQj0ttOxBoW1zVjXHoSw)
+
 [记录级别索引：Apache Hudi 针对大型数据集的超快索引](https://mp.weixin.qq.com/s/E8GOANEgQD_Jooi0GJh_1Q)
 
 [Apache Hudi Timeline：支持 ACID 事务的基础](https://mp.weixin.qq.com/s/km8YJ1hneb1AclWgjf97wA)
