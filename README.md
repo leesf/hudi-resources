@@ -222,6 +222,8 @@
 
 ## Apache Hudi社区
 
+[回顾 2023：Hudi 的重点新功能一览](https://mp.weixin.qq.com/s/_tTYgklj7YPCLDc0VBfhUA)
+
 [重磅！Onehouse 携手微软、谷歌宣布开源 OneTable](https://mp.weixin.qq.com/s/XuxyBKawPolj99gBJVi_Bw)
 
 [Apache Hudi 0.14.0版本重磅发布！](https://mp.weixin.qq.com/s/ATf-92UzW5iOGXYODYn0ug)
