@@ -300,6 +300,8 @@
 
 ## Apache Hudi入门系列
 
+[Apache Hudi从零到一：深入研究读取流程和查询类型（二）](https://mp.weixin.qq.com/s/lMWmfnjCWE6anPfVPS5jhg)
+
 [Apache Hudi从零到一：存储格式初探（一）](https://mp.weixin.qq.com/s/mBHQj0ttOxBoW1zVjXHoSw)
 
 [记录级别索引：Apache Hudi 针对大型数据集的超快索引](https://mp.weixin.qq.com/s/E8GOANEgQD_Jooi0GJh_1Q)
