@@ -503,6 +503,8 @@
 
 ## 数据湖扩展
 
+[LakeHouse 还是 Warehouse？(2/2)](https://mp.weixin.qq.com/s/sI3LJ8Uig2va2RrtDvtfQg)
+
 [LakeHouse 还是 Warehouse？(1/2)](https://mp.weixin.qq.com/s/_8CRMyGHITFWaQ2TAzmPpA)
 
 [通用数据湖仓一体架构正当时](https://mp.weixin.qq.com/s/59XzE0BUcY2UjzRjDeUocg)
