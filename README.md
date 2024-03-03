@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[Grab 基于 Apache Hudi 实现近乎实时的数据分析](https://mp.weixin.qq.com/s/mpz8usdkmjA21eu1e8XQ8w)
+
 [Apache Hudi 在 vivo 湖仓一体的落地实践](https://mp.weixin.qq.com/s/iON_0EgaArwLb67krCUd3g)
 
 [火山引擎数据湖存储内核揭秘](https://mp.weixin.qq.com/s/KtO5RxkR2dEoA_ujhQ4gYw)
