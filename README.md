@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[降本百万！Notion 基于Apache Hudi构建LakeHouse](https://mp.weixin.qq.com/s/nnirjtRzaLRF9smRRXPOXw)
+
 [Grab 基于 Apache Hudi 实现近乎实时的数据分析](https://mp.weixin.qq.com/s/mpz8usdkmjA21eu1e8XQ8w)
 
 [Apache Hudi 在 vivo 湖仓一体的落地实践](https://mp.weixin.qq.com/s/iON_0EgaArwLb67krCUd3g)
