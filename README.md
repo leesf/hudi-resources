@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[Uber 基于Apache Hudi的超级数据基础设施](https://mp.weixin.qq.com/s/UVedOL-BnodriUTKKZnCnQ)
+
 [从 POC 到生产！Leboncoin 基于 Apache Hudi 构建 Lakehouse 实践](https://mp.weixin.qq.com/s/--Kak5HimuZiWzu65u5g6A)
 
 [沃尔玛基于 Apache Hudi 构建 Lakehouse](https://mp.weixin.qq.com/s/DUe3CGck-xfHyzzpQ9VcnA)
