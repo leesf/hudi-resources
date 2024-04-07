@@ -310,6 +310,8 @@
 
 ## Apache Hudi入门系列
 
+[Apache Hudi从零到一：写入流程和操作（三）](https://mp.weixin.qq.com/s/miQaELd5JCYvN5wLXX8nyw)
+
 [Apache Hudi从零到一：深入研究读取流程和查询类型（二）](https://mp.weixin.qq.com/s/lMWmfnjCWE6anPfVPS5jhg)
 
 [Apache Hudi从零到一：存储格式初探（一）](https://mp.weixin.qq.com/s/mBHQj0ttOxBoW1zVjXHoSw)
