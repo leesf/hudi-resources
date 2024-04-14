@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[袋鼠云在实时数据湖上的探索实践](https://mp.weixin.qq.com/s/-EnEnFKroXyeWF5N46cWxw)
+
 [Uber 基于Apache Hudi的超级数据基础设施](https://mp.weixin.qq.com/s/UVedOL-BnodriUTKKZnCnQ)
 
 [从 POC 到生产！Leboncoin 基于 Apache Hudi 构建 Lakehouse 实践](https://mp.weixin.qq.com/s/--Kak5HimuZiWzu65u5g6A)
