@@ -312,6 +312,8 @@
 
 ## Apache Hudi入门系列
 
+[Apache Hudi +MinIO + HMS构建现代数据湖](https://mp.weixin.qq.com/s/rCJ6XikkU03VvuLj3eFoGQ)
+
 [Apache Hudi从零到一：写入流程和操作（三）](https://mp.weixin.qq.com/s/miQaELd5JCYvN5wLXX8nyw)
 
 [Apache Hudi从零到一：深入研究读取流程和查询类型（二）](https://mp.weixin.qq.com/s/lMWmfnjCWE6anPfVPS5jhg)
