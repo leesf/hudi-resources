@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[揭秘Robinhood扩展和管理PB级规模Lakehouse架构](https://mp.weixin.qq.com/s/j_L9_nG0VVjQF4EYu8YOfQ)
+
 [袋鼠云在实时数据湖上的探索实践](https://mp.weixin.qq.com/s/-EnEnFKroXyeWF5N46cWxw)
 
 [Uber 基于Apache Hudi的超级数据基础设施](https://mp.weixin.qq.com/s/UVedOL-BnodriUTKKZnCnQ)
