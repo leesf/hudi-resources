@@ -314,6 +314,8 @@
 
 ## Apache Hudi入门系列
 
+[超硬核解析Apache Hudi 的一致性模型（第二部分）](https://mp.weixin.qq.com/s/DEC4BYjNntpiCe_NFcGS6A)
+
 [超硬核解析Apache Hudi 的一致性模型（第一部分）](https://mp.weixin.qq.com/s/PRgzU9eNJV-tm8M0uk-98w)
 
 [Apache Hudi +MinIO + HMS构建现代数据湖](https://mp.weixin.qq.com/s/rCJ6XikkU03VvuLj3eFoGQ)
