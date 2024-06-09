@@ -238,6 +238,10 @@
 
 ## Apache Hudi社区
 
+[2024 年 5 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/p4kk8dliO1mPktbeKzOYZQ)
+
+[基于 XTable 的 Dremio Lakehouse分析](https://mp.weixin.qq.com/s/Qjzz6avAKisjL2W2sGf9dA)
+
 [回顾 2023：Hudi 的重点新功能一览](https://mp.weixin.qq.com/s/_tTYgklj7YPCLDc0VBfhUA)
 
 [重磅！Onehouse 携手微软、谷歌宣布开源 OneTable](https://mp.weixin.qq.com/s/XuxyBKawPolj99gBJVi_Bw)
