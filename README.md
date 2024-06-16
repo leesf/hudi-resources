@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[数据湖在快手的应用实践](https://mp.weixin.qq.com/s/-9Xw8OLq8HwhLaSaxEfzsA)
+
 [华为基于Apache Hudi 实时入湖应用解决方案](https://mp.weixin.qq.com/s/25UG4QKIn5LD7Yl2chvAlw)
 
 [揭秘Robinhood扩展和管理PB级规模Lakehouse架构](https://mp.weixin.qq.com/s/j_L9_nG0VVjQF4EYu8YOfQ)
