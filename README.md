@@ -240,6 +240,8 @@
 
 ## Apache Hudi社区
 
+[Apache Hudi 背后商业公司 Onehouse 宣布3500万美元 B 轮融资](https://mp.weixin.qq.com/s/VL1yXk3KOxqSCmVHzoRdjw)
+
 [Apache Hudi - 我们需要的开放数据湖仓一体平台](https://mp.weixin.qq.com/s/Ath9Z_EK_tslURnjFYRAqA)
 
 [2024 年 5 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/p4kk8dliO1mPktbeKzOYZQ)
