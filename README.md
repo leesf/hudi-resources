@@ -240,6 +240,10 @@
 
 ## Apache Hudi社区
 
+[Apache Hudi 正式迈向 Rust/Python 生态圈](https://mp.weixin.qq.com/s/yE6DxLMZ5q4wAjOrgfeFUw?poc_token=HK1DnGajdMp4ls3qGWujxqHLHb--UDvOF54L5nOL)
+
+[2024 年 6 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/RR9a_5EuYYDX-YRuZXqySw)
+
 [Apache Hudi 背后商业公司 Onehouse 宣布3500万美元 B 轮融资](https://mp.weixin.qq.com/s/VL1yXk3KOxqSCmVHzoRdjw)
 
 [Apache Hudi - 我们需要的开放数据湖仓一体平台](https://mp.weixin.qq.com/s/Ath9Z_EK_tslURnjFYRAqA)
@@ -572,6 +576,8 @@
 [Data Lake架构揭秘](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484655&amp;idx=1&amp;sn=f130b356b77027779a6fcb6801f33290&amp;chksm=e81f5199df68d88f72bae107f5749a8ce395c59dabd237daedd831690477886d0a5983537fb6&token=1688466117&lang=zh_CN#rd)
 
 ## Apache Hudi生态
+
+[Apache Doris + Apache Hudi 快速搭建指南](https://mp.weixin.qq.com/s/jrUi6T6Cu1eyLsmk31Ejtg)
 
 [腾讯云DLC(数据湖计算)重磅支持Apache Hudi](https://mp.weixin.qq.com/s/RA245R4hvbG6jZJ2xzx8PA)
 
