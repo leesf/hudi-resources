@@ -475,6 +475,8 @@
 
 ## Apache Hudi实战
 
+[详解通过 DuckDB 访问 Apache Hudi 数据湖](https://mp.weixin.qq.com/s/jrjf-nfCnwYYqzfu9MJqoA)
+
 [使用Apache RocketMQ + Hudi 快速构建 Lakehouse](https://mp.weixin.qq.com/s/NZxfY2gUWLu8744AX9TeOA)
 
 [查询性能提升3倍！Apache Hudi 查询优化了解下？](https://mp.weixin.qq.com/s/ZjFJaH20y0n-xz_VXt5bxw)
