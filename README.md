@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[亚信科技基于Hudi MetaServer元数据服务技术探索](https://mp.weixin.qq.com/s/W99AQ5KRRyB2H-8WSHmsIQ)
+
 [京东零售数据湖应用与实践](https://mp.weixin.qq.com/s/NScTGk63ycEMh-0spTvdJg)
 
 [降本增效！Notion数据湖构建和扩展之路](https://mp.weixin.qq.com/s/1avI5zWIWk3_XuhwzWsoEg)
@@ -584,6 +586,8 @@
 [Data Lake架构揭秘](https://mp.weixin.qq.com/s?__biz=MzIyMzQ0NjA0MQ==&amp;mid=2247484655&amp;idx=1&amp;sn=f130b356b77027779a6fcb6801f33290&amp;chksm=e81f5199df68d88f72bae107f5749a8ce395c59dabd237daedd831690477886d0a5983537fb6&token=1688466117&lang=zh_CN#rd)
 
 ## Apache Hudi生态
+
+[数据湖核心能力解析](https://mp.weixin.qq.com/s/CmEsEPtyepfGzWXgag7lBw)
 
 [一文了解数据湖变更数据捕获](https://mp.weixin.qq.com/s/xEa7vvBYua_9bpK_iRCc9Q)
 
