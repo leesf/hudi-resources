@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[基于 Apache Doris + Hudi 湖仓一体分析系统在快手的实践](https://mp.weixin.qq.com/s/y-siNNbc58dH_RG6wDkOyA)
+
 [亚信科技基于Hudi MetaServer元数据服务技术探索](https://mp.weixin.qq.com/s/W99AQ5KRRyB2H-8WSHmsIQ)
 
 [京东零售数据湖应用与实践](https://mp.weixin.qq.com/s/NScTGk63ycEMh-0spTvdJg)
@@ -245,6 +247,8 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi社区
+
+[2024 年 8 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/g_Wb_GPVXeVNtqE6eVRtRQ)
 
 [2024 年 7 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/fRgw03dNxXrikMya3nXniQ)
 
