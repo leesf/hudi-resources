@@ -346,6 +346,8 @@
 
 ## Apache Hudi入门系列
 
+[Apache Hudi 从零到一：揭秘类聚和空间填充曲线（六）](https://mp.weixin.qq.com/s/zum1NoXE3Bds8oO4kbJQ4g)
+
 [Apache Hudi 从零到一：初识表服务：压缩、清理及索引（五）](https://mp.weixin.qq.com/s/ZEV3xiWFZV80_aPtkyU55A)
 
 [超硬核解析Apache Hudi 的一致性模型（第三部分）](https://mp.weixin.qq.com/s/rQI1uQ3KRBDvMrq25iEpGA)
