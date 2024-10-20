@@ -250,6 +250,8 @@
 
 ## Apache Hudi社区
 
+[2024 年 9 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/cXOsIPkQ2S4WUUG3IOByDQ)
+
 [2024 年 8 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/g_Wb_GPVXeVNtqE6eVRtRQ)
 
 [2024 年 7 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/fRgw03dNxXrikMya3nXniQ)
@@ -345,6 +347,8 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[Apache Hudi 从零到一：并发控制（七）](https://mp.weixin.qq.com/s/p9qzQg1TIddsB3b96Hcy2Q)
 
 [Apache Hudi 从零到一：揭秘类聚和空间填充曲线（六）](https://mp.weixin.qq.com/s/zum1NoXE3Bds8oO4kbJQ4g)
 
