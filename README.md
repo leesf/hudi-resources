@@ -601,6 +601,8 @@
 
 ## Apache Hudi生态
 
+[一文聊透开放表格式和开放数据Lakehouse](https://mp.weixin.qq.com/s/Yx1eoiI9atSO47GnQV2hyw)
+
 [数据湖核心能力解析](https://mp.weixin.qq.com/s/CmEsEPtyepfGzWXgag7lBw)
 
 [一文了解数据湖变更数据捕获](https://mp.weixin.qq.com/s/xEa7vvBYua_9bpK_iRCc9Q)
