@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[G行基于 Apache Hudi 的实时数据湖架构与实践](https://mp.weixin.qq.com/s/VaUraZmUSJkAg2WTKhWsqQ)
+
 [降本70%！金融支付公司 Yuno 的数据湖实践](https://mp.weixin.qq.com/s/YZMGwYXucw9wEG-D-8uwPw)
 
 [基于 Apache Doris + Hudi 湖仓一体分析系统在快手的实践](https://mp.weixin.qq.com/s/y-siNNbc58dH_RG6wDkOyA)
