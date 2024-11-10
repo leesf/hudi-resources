@@ -575,6 +575,8 @@
 
 ## 数据湖扩展
 
+[不同表格式如何表示规范文件集？](https://mp.weixin.qq.com/s/vAGVg4RXnRAdHoUY81pQUg)
+
 [LakeHouse 还是 Warehouse？(2/2)](https://mp.weixin.qq.com/s/sI3LJ8Uig2va2RrtDvtfQg)
 
 [LakeHouse 还是 Warehouse？(1/2)](https://mp.weixin.qq.com/s/_8CRMyGHITFWaQ2TAzmPpA)
