@@ -252,6 +252,8 @@
 
 ## Apache Hudi社区
 
+[2024 年 10 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/xJsScjoeXoqdOJGRyfpaJQ)
+
 [2024 年 9 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/cXOsIPkQ2S4WUUG3IOByDQ)
 
 [2024 年 8 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/g_Wb_GPVXeVNtqE6eVRtRQ)
@@ -574,6 +576,8 @@
 [Apache Hudi表自动同步至阿里云数据湖分析DLA](https://mp.weixin.qq.com/s/zBAYJlsnbbFAjWnmOqjTlQ)
 
 ## 数据湖扩展
+
+[如何优化开放数据湖仓一体的性能](https://mp.weixin.qq.com/s/RmFCEOg28z54Sou9CZSAiA)
 
 [不同表格式如何表示规范文件集？](https://mp.weixin.qq.com/s/vAGVg4RXnRAdHoUY81pQUg)
 
