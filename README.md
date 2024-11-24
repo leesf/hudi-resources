@@ -577,6 +577,8 @@
 
 ## 数据湖扩展
 
+[开放表格式的历史和演变 - 第一部分](https://mp.weixin.qq.com/s/qpMtTYRB0naDxVcktG_qRA?poc_token=HDKXQmejj9pfoKBuXj9YsZ5XMeIW2vE01c-i2v3Q)
+
 [如何优化开放数据湖仓一体的性能](https://mp.weixin.qq.com/s/RmFCEOg28z54Sou9CZSAiA)
 
 [不同表格式如何表示规范文件集？](https://mp.weixin.qq.com/s/vAGVg4RXnRAdHoUY81pQUg)
