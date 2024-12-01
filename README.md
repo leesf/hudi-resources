@@ -252,6 +252,8 @@
 
 ## Apache Hudi社区
 
+[Hudi-rs 0.2.0 发布](https://mp.weixin.qq.com/s/eKho9CQ30B6Y5M6obNtlYw)
+
 [2024 年 10 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/xJsScjoeXoqdOJGRyfpaJQ)
 
 [2024 年 9 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/cXOsIPkQ2S4WUUG3IOByDQ)
@@ -576,6 +578,8 @@
 [Apache Hudi表自动同步至阿里云数据湖分析DLA](https://mp.weixin.qq.com/s/zBAYJlsnbbFAjWnmOqjTlQ)
 
 ## 数据湖扩展
+
+[开放表格式的历史和演变 - 第二部分](https://mp.weixin.qq.com/s/eKho9CQ30B6Y5M6obNtlYw)
 
 [开放表格式的历史和演变 - 第一部分](https://mp.weixin.qq.com/s/qpMtTYRB0naDxVcktG_qRA?poc_token=HDKXQmejj9pfoKBuXj9YsZ5XMeIW2vE01c-i2v3Q)
 
