@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[存储 2000 亿个实体：Notion 的数据湖项目](https://mp.weixin.qq.com/s/7R12Ck-_YshNylQ_S4W3aw)
+
 [G行基于 Apache Hudi 的实时数据湖架构与实践](https://mp.weixin.qq.com/s/VaUraZmUSJkAg2WTKhWsqQ)
 
 [降本70%！金融支付公司 Yuno 的数据湖实践](https://mp.weixin.qq.com/s/YZMGwYXucw9wEG-D-8uwPw)
