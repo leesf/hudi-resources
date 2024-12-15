@@ -254,6 +254,8 @@
 
 ## Apache Hudi社区
 
+[2024 年 11 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/H8jACVyzhwm4TDkAUKjJRQ)
+
 [Hudi-rs 0.2.0 发布](https://mp.weixin.qq.com/s/eKho9CQ30B6Y5M6obNtlYw)
 
 [2024 年 10 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/xJsScjoeXoqdOJGRyfpaJQ)
@@ -355,6 +357,8 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[Apache Hudi 从零到一：增量处理（八）](https://mp.weixin.qq.com/s/jm2s3w4MiQIfJvn6kTtMVQ)
 
 [Apache Hudi 从零到一：并发控制（七）](https://mp.weixin.qq.com/s/p9qzQg1TIddsB3b96Hcy2Q)
 
