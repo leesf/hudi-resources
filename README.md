@@ -254,6 +254,8 @@
 
 ## Apache Hudi社区
 
+[Apache Hudi 1.0.0 版本正式发布](https://mp.weixin.qq.com/s/7yXcYy1Tef23pyD3p9KbYA)
+
 [2024 年 11 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/H8jACVyzhwm4TDkAUKjJRQ)
 
 [Hudi-rs 0.2.0 发布](https://mp.weixin.qq.com/s/eKho9CQ30B6Y5M6obNtlYw)
