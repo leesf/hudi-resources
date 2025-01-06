@@ -254,6 +254,8 @@
 
 ## Apache Hudi社区
 
+[回顾 Apache Hudi 的 2024](https://mp.weixin.qq.com/s/a9X2Rzi402rPBg0FEd49bA)
+
 [Apache Hudi 1.0 重点特性及下一代Lakehouse详解](https://mp.weixin.qq.com/s/O4ci8xDeoUBR-MboM9QNxA)
 
 [Apache Hudi 1.0.0 版本正式发布](https://mp.weixin.qq.com/s/7yXcYy1Tef23pyD3p9KbYA)
