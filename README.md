@@ -254,6 +254,8 @@
 
 ## Apache Hudi社区
 
+[万字长文：综合详实的数据目录比较](https://mp.weixin.qq.com/s/KzAsAXJaVMee8AFt2lyb7Q)
+
 [回顾 Apache Hudi 的 2024](https://mp.weixin.qq.com/s/a9X2Rzi402rPBg0FEd49bA)
 
 [Apache Hudi 1.0 重点特性及下一代Lakehouse详解](https://mp.weixin.qq.com/s/O4ci8xDeoUBR-MboM9QNxA)
