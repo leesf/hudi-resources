@@ -254,6 +254,8 @@
 
 ## Apache Hudi社区
 
+[2024 年 12 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/ZqfR6B9inE32AhJ1zM0PrA)
+
 [万字长文：综合详实的数据目录比较](https://mp.weixin.qq.com/s/KzAsAXJaVMee8AFt2lyb7Q)
 
 [回顾 Apache Hudi 的 2024](https://mp.weixin.qq.com/s/a9X2Rzi402rPBg0FEd49bA)
@@ -365,6 +367,8 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[流式高频写入：Apache Hudi 非阻塞并发控制详解](https://mp.weixin.qq.com/s/XPeeA2KvFp0lBZ2nBwTjzw)
 
 [Apache Hudi 从零到一：增量处理（八）](https://mp.weixin.qq.com/s/jm2s3w4MiQIfJvn6kTtMVQ)
 
