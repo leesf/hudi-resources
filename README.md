@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[抖音集团数据湖表优化与管理实践](https://mp.weixin.qq.com/s/Bt5deYh0dTLFV1Ry8Cq96w)
+
 [存储 2000 亿个实体：Notion 的数据湖项目](https://mp.weixin.qq.com/s/7R12Ck-_YshNylQ_S4W3aw)
 
 [G行基于 Apache Hudi 的实时数据湖架构与实践](https://mp.weixin.qq.com/s/VaUraZmUSJkAg2WTKhWsqQ)
@@ -253,6 +255,8 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi社区
+
+[2025 年 2 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/6YNYrQdbuQjnVaoyyDtJ6Q)
 
 [2025 年 1 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/x4KXKTZwvu60Iu-lKFsQ5g)
 
