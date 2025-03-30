@@ -374,6 +374,8 @@
 
 ## Apache Hudi入门系列
 
+[详解 Apache Hudi 的记录合并](https://mp.weixin.qq.com/s/3lSYhaAhOTBrQCN10E7l1g)
+
 [一文详解开放数据湖的并发控制](https://mp.weixin.qq.com/s/BRNG7mDyZBBykx88fEqhpw)
 
 [流式高频写入：Apache Hudi 非阻塞并发控制详解](https://mp.weixin.qq.com/s/XPeeA2KvFp0lBZ2nBwTjzw)
