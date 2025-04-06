@@ -256,6 +256,8 @@
 
 ## Apache Hudi社区
 
+[2025 年 3月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/WX5t3S8lEyVsSnktBJBeiA)
+
 [2025 年 2 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/6YNYrQdbuQjnVaoyyDtJ6Q)
 
 [2025 年 1 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/x4KXKTZwvu60Iu-lKFsQ5g)
