@@ -256,6 +256,8 @@
 
 ## Apache Hudi社区
 
+[精彩回顾| Apache Hudi 亚洲站首场沙龙圆满举办！](https://mp.weixin.qq.com/s/RQZgKnyu4OGdrUOD7W257A)
+
 [2025 年 3月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/WX5t3S8lEyVsSnktBJBeiA)
 
 [2025 年 2 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/6YNYrQdbuQjnVaoyyDtJ6Q)
