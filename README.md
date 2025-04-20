@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[Uptycs: 构建快如闪电的分析](https://mp.weixin.qq.com/s/UJ1um2mLnUvzXe88pHuzxg)
+
 [抖音集团数据湖表优化与管理实践](https://mp.weixin.qq.com/s/Bt5deYh0dTLFV1Ry8Cq96w)
 
 [存储 2000 亿个实体：Notion 的数据湖项目](https://mp.weixin.qq.com/s/7R12Ck-_YshNylQ_S4W3aw)
