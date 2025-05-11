@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[使用 Apache Hudi 大规模支持 Amazon Unit Economics](https://mp.weixin.qq.com/s/JRwNC945o1x0ka9Gy3DgFw)
+
 [Uptycs: 构建快如闪电的分析](https://mp.weixin.qq.com/s/UJ1um2mLnUvzXe88pHuzxg)
 
 [抖音集团数据湖表优化与管理实践](https://mp.weixin.qq.com/s/Bt5deYh0dTLFV1Ry8Cq96w)
@@ -257,6 +259,8 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi社区
+
+[2025 年 4 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/-aikRVRa8SmE4_5j9HufJg)
 
 [精彩回顾| Apache Hudi 亚洲站首场沙龙圆满举办！](https://mp.weixin.qq.com/s/RQZgKnyu4OGdrUOD7W257A)
 
