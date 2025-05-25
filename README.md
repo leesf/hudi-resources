@@ -384,6 +384,8 @@
 
 ## Apache Hudi入门系列
 
+[石头剪刀布：Apache Hudi中的可插拔表格式](https://mp.weixin.qq.com/s/c5JIcjuZF2q-v5GudFzHCA)
+
 [详解 Apache Hudi 的记录合并](https://mp.weixin.qq.com/s/3lSYhaAhOTBrQCN10E7l1g)
 
 [一文详解开放数据湖的并发控制](https://mp.weixin.qq.com/s/BRNG7mDyZBBykx88fEqhpw)
@@ -616,6 +618,8 @@
 [Apache Hudi表自动同步至阿里云数据湖分析DLA](https://mp.weixin.qq.com/s/zBAYJlsnbbFAjWnmOqjTlQ)
 
 ## 数据湖扩展
+
+[万字长文揭秘如何衡量云数据平台 ETL 性价比](https://mp.weixin.qq.com/s/urQRMDrRhtBBSl7i43nPCw)
 
 [开放表格式的历史和演变 - 第二部分](https://mp.weixin.qq.com/s/eKho9CQ30B6Y5M6obNtlYw)
 
