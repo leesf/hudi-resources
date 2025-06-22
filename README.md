@@ -384,6 +384,8 @@
 
 ## Apache Hudi入门系列
 
+[查询性能提升2倍！ Apache Hudi Lakehouse Platform 中引入二级索引](https://mp.weixin.qq.com/s/T4vXHLuyL8qVYY52qFF2cg)
+
 [探索 Apache Hudi 全新 LSM Timeline](https://mp.weixin.qq.com/s/1oalxtLqIFck968z79AP7g)
 
 [石头剪刀布：Apache Hudi中的可插拔表格式](https://mp.weixin.qq.com/s/c5JIcjuZF2q-v5GudFzHCA)
