@@ -260,6 +260,8 @@
 
 ## Apache Hudi社区
 
+[Hudi-rs 0.4.0 发布！新增 C++ API, 更多 MoR 支持](https://mp.weixin.qq.com/s/JClpAmRAt38AV_o-YA4xvw)
+
 [2025 年 4 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/-aikRVRa8SmE4_5j9HufJg)
 
 [精彩回顾| Apache Hudi 亚洲站首场沙龙圆满举办！](https://mp.weixin.qq.com/s/RQZgKnyu4OGdrUOD7W257A)
@@ -383,6 +385,8 @@
 [Apache Hudi：云数据湖解决方案](https://mp.weixin.qq.com/s/p3uM_wBuYAgyBMk4zmkCdw)
 
 ## Apache Hudi入门系列
+
+[一文详解Open Data Lakehouse 中的Clustering](https://mp.weixin.qq.com/s/ZL3wYRhI2Apex9663l27Hg)
 
 [查询性能提升2倍！ Apache Hudi Lakehouse Platform 中引入二级索引](https://mp.weixin.qq.com/s/T4vXHLuyL8qVYY52qFF2cg)
 
