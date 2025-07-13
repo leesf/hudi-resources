@@ -260,6 +260,8 @@
 
 ## Apache Hudi社区
 
+[2025 年 6 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/h8_SrMgYoGQX55tMN3bxoQ)
+
 [Hudi-rs 0.4.0 发布！新增 C++ API, 更多 MoR 支持](https://mp.weixin.qq.com/s/JClpAmRAt38AV_o-YA4xvw)
 
 [2025 年 4 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/-aikRVRa8SmE4_5j9HufJg)
