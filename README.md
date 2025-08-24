@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[京东流量资产基于湖仓架构的落地实践](https://mp.weixin.qq.com/s/HO6qXOEojP1VqJlOWOLPkQ)
+
 [使用 Apache Hudi 大规模支持 Amazon Unit Economics](https://mp.weixin.qq.com/s/JRwNC945o1x0ka9Gy3DgFw)
 
 [Uptycs: 构建快如闪电的分析](https://mp.weixin.qq.com/s/UJ1um2mLnUvzXe88pHuzxg)
