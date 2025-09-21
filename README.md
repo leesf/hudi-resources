@@ -2,6 +2,8 @@
 
 ## Apache Hudi落地解读
 
+[Apache Hudi 1.1 前瞻：Flink 流式入湖的极致优化](https://mp.weixin.qq.com/s/ek80Fzw30FOawk1qeWxtCw)
+
 [京东流量资产基于湖仓架构的落地实践](https://mp.weixin.qq.com/s/HO6qXOEojP1VqJlOWOLPkQ)
 
 [使用 Apache Hudi 大规模支持 Amazon Unit Economics](https://mp.weixin.qq.com/s/JRwNC945o1x0ka9Gy3DgFw)
@@ -261,6 +263,8 @@
 [Apache Hudi丨数据服务实时化利器(在金融场景应用)](https://mp.weixin.qq.com/s/XX9lKWMdAAjGAUG9jLDh1g)
 
 ## Apache Hudi社区
+
+[2025 年 8 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/4e70a5z4soELTb-SFBRE5g)
 
 [2025 年 6 月 Apache Hudi 社区新闻](https://mp.weixin.qq.com/s/h8_SrMgYoGQX55tMN3bxoQ)
 
