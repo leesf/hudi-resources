@@ -12,6 +12,9 @@ on:
 jobs:
   optimize:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
