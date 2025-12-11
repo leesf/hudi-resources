@@ -1,10 +1,10 @@
 # Python dependencies for optimization scripts
 
 # Image optimization
-Pillow>=10.0.0
+Pillow~=10.0.0
 
 # Link validation
-requests>=2.31.0
+requests~=2.31.0
 
 # Optional: for better performance and error handling
-urllib3>=2.0.0
+urllib3~=2.0.0

@@ -9,13 +9,13 @@ import sys
 from PIL import Image
 from pathlib import Path
 
-def optimize_png(image_path, quality=85):
+def optimize_png(image_path, compression_level=9):
     """
-    Optimize a PNG image by reducing quality while maintaining visual appearance.
+    Optimize a PNG image using lossless compression.
     
     Args:
         image_path: Path to the PNG file
-        quality: Compression quality (0-100)
+        compression_level: PNG compression level (0-9, where 9 is maximum compression)
     
     Returns:
         Tuple of (original_size, new_size, savings_percent)
@@ -34,8 +34,8 @@ def optimize_png(image_path, quality=85):
             elif img.mode != 'RGB':
                 img = img.convert('RGB')
             
-            # Save with optimization
-            img.save(image_path, 'PNG', optimize=True, quality=quality)
+            # Save with optimization (PNG uses compress_level, not quality)
+            img.save(image_path, 'PNG', optimize=True, compress_level=compression_level)
         
         new_size = os.path.getsize(image_path)
         savings = ((original_size - new_size) / original_size) * 100

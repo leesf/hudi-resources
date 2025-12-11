@@ -24,11 +24,14 @@ def extract_links(readme_path):
         lines = f.readlines()
     
     links = []
-    url_pattern = r'https?://[^\s\)>\]"]+'
+    # Improved regex pattern to handle URLs in markdown links and parentheses
+    url_pattern = r'https?://[^\s\)\]"<>]+'
     
     for i, line in enumerate(lines, 1):
         urls = re.findall(url_pattern, line)
         for url in urls:
+            # Clean up any trailing punctuation that might have been captured
+            url = url.rstrip('.,;:!?')
             links.append((i, url))
     
     return links
@@ -54,8 +57,13 @@ def check_link(line_num, url, timeout=10):
         'error': None
     }
     
+    # Add User-Agent header to avoid being blocked by servers
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (compatible; LinkChecker/1.0; +https://github.com/leesf/hudi-resources)'
+    }
+    
     try:
-        response = requests.head(url, timeout=timeout, allow_redirects=True)
+        response = requests.head(url, timeout=timeout, allow_redirects=True, headers=headers)
         result['status_code'] = response.status_code
         result['response_time'] = response.elapsed.total_seconds()
         

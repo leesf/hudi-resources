@@ -7,12 +7,13 @@ This script generates an efficient table of contents with jump links for better 
 import re
 from pathlib import Path
 
-def generate_toc(readme_path):
+def generate_toc(readme_path, toc_title="## Table of Contents"):
     """
     Generate a table of contents from markdown headers.
     
     Args:
         readme_path: Path to the README.md file
+        toc_title: Title for the table of contents (configurable for i18n)
     
     Returns:
         String containing the table of contents
@@ -26,7 +27,7 @@ def generate_toc(readme_path):
     if not headers:
         return ""
     
-    toc_lines = ["## 目录 (Table of Contents)\n"]
+    toc_lines = [toc_title + "\n"]
     
     for level_str, title in headers:
         level = len(level_str) - 1  # Adjust level (## = level 1)
@@ -41,17 +42,18 @@ def generate_toc(readme_path):
     
     return "\n".join(toc_lines) + "\n"
 
-def add_toc_to_readme(readme_path):
+def add_toc_to_readme(readme_path, toc_title="## 目录 (Table of Contents)"):
     """
     Add or update table of contents in README.md
     
     Args:
         readme_path: Path to the README.md file
+        toc_title: Title for the table of contents (configurable for i18n)
     """
     with open(readme_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    toc = generate_toc(readme_path)
+    toc = generate_toc(readme_path, toc_title)
     
     # Check if TOC already exists
     toc_marker_start = "<!-- TOC START -->"

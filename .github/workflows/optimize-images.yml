@@ -19,7 +19,7 @@ jobs:
           ref: ${{ github.head_ref }}
           
       - name: Compress Images
-        uses: calibreapp/image-actions@main
+        uses: calibreapp/image-actions@1.1.0
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           compressOnly: true
