@@ -1,0 +1,253 @@
+{
+  "name": "apache-hudi-expert",
+  "version": "1.0.0",
+  "description": "Comprehensive Apache Hudi data lake expertise for Claude Code",
+  "type": "knowledge",
+  "author": "Hudi Community",
+  "tags": ["data-lake", "streaming", "big-data", "apache-hudi"],
+  
+  "capabilities": {
+    "hudi_operations": {
+      "create_table": true,
+      "upsert": true,
+      "delete": true,
+      "query": true,
+      "compaction": true,
+      "clustering": true,
+      "cleaning": true,
+      "archiving": true
+    },
+    "table_types": [
+      "COPY_ON_WRITE",
+      "MERGE_ON_READ"
+    ],
+    "integrations": [
+      "spark",
+      "flink",
+      "hive",
+      "presto",
+      "trino",
+      "athena"
+    ],
+    "storage": [
+      "s3",
+      "hdfs",
+      "azure-blob",
+      "gcs",
+      "oss"
+    ]
+  },
+  
+  "knowledge_sources": [
+    {
+      "type": "documentation",
+      "url": "https://hudi.apache.org/docs/overview",
+      "cache": true
+    },
+    {
+      "type": "local",
+      "path": "./hudi-resources",
+      "description": "Local Hudi learning resources"
+    }
+  ],
+  
+  "prompts": {
+    "system": "You are an expert in Apache Hudi data lakes with comprehensive knowledge of:\n\n1. Table Types:\n   - Copy-on-Write (COW): Optimized for read-heavy workloads\n   - Merge-on-Read (MOR): Optimized for write-heavy workloads with fast ingestion\n\n2. Core Operations:\n   - Insert/Upsert/Delete records with ACID guarantees\n   - Incremental queries for efficient data processing\n   - Time travel queries for historical data access\n   - Compaction strategies for MOR tables\n   - Clustering for data layout optimization\n\n3. Integrations:\n   - Spark: Batch and structured streaming\n   - Flink: Real-time stream processing\n   - Hive/Presto/Trino: SQL query engines\n   - AWS services: EMR, Glue, Athena\n\n4. Best Practices:\n   - Partitioning strategies for optimal performance\n   - Index selection based on workload patterns\n   - Metadata table optimization\n   - Configuration tuning for production workloads\n   - Monitoring and troubleshooting\n\nAlways provide:\n- Production-ready code examples\n- Performance considerations\n- Best practice recommendations\n- Potential pitfalls and how to avoid them\n- Links to relevant documentation when applicable",
+    
+    "templates": {
+      "create_table": "Show how to create a Hudi ${table_type} table with these requirements:\n${requirements}\n\nInclude:\n1. Configuration options\n2. Code example (Spark/Flink)\n3. Performance considerations",
+      
+      "troubleshoot": "Help diagnose and resolve this Hudi issue:\n\nError: ${error_message}\nContext: ${context}\n\nProvide:\n1. Root cause analysis\n2. Solution steps\n3. Prevention tips",
+      
+      "optimize": "Analyze and optimize this Hudi configuration:\n\n${config}\n\nWorkload: ${workload_description}\n\nProvide:\n1. Current issues\n2. Recommended changes\n3. Expected improvements",
+      
+      "migrate": "Guide migration from ${source_system} to Hudi:\n\nRequirements: ${requirements}\n\nProvide:\n1. Migration strategy\n2. Step-by-step implementation\n3. Validation approach"
+    }
+  },
+  
+  "tools": [
+    {
+      "name": "hudi_cli",
+      "description": "Execute Hudi CLI commands for table management",
+      "command": "hudi-cli",
+      "args": ["--command", "${command}"],
+      "examples": [
+        "show fsview all",
+        "commits show --limit 10",
+        "stats wa"
+      ]
+    },
+    {
+      "name": "spark_shell_hudi",
+      "description": "Launch Spark shell with Hudi dependencies",
+      "command": "spark-shell",
+      "args": [
+        "--packages", "org.apache.hudi:hudi-spark3.3-bundle_2.12:0.14.0",
+        "--conf", "spark.serializer=org.apache.spark.serializer.KryoSerializer",
+        "--conf", "spark.sql.catalog.spark_catalog=org.apache.spark.sql.hudi.catalog.HoodieCatalog",
+        "--conf", "spark.sql.extensions=org.apache.spark.sql.hudi.HoodieSparkSessionExtension"
+      ]
+    }
+  ],
+  
+  "examples": [
+    {
+      "title": "Create COW Table with Spark",
+      "language": "scala",
+      "code": "import org.apache.hudi.QuickstartUtils._\nimport scala.collection.JavaConversions._\nimport org.apache.spark.sql.SaveMode._\nimport org.apache.hudi.DataSourceWriteOptions._\nimport org.apache.hudi.config.HoodieWriteConfig._\n\nval tableName = \"hudi_trips_cow\"\nval basePath = \"s3://bucket/path/to/table\"\n\nval inserts = convertToStringList(dataGen.generateInserts(10))\nval df = spark.read.json(spark.sparkContext.parallelize(inserts, 2))\n\ndf.write.format(\"hudi\").\n  options(getQuickstartWriteConfigs).\n  option(PRECOMBINE_FIELD_OPT_KEY, \"ts\").\n  option(RECORDKEY_FIELD_OPT_KEY, \"uuid\").\n  option(PARTITIONPATH_FIELD_OPT_KEY, \"partitionpath\").\n  option(TABLE_NAME, tableName).\n  mode(Overwrite).\n  save(basePath)"
+    },
+    {
+      "title": "Upsert with Flink SQL",
+      "language": "sql",
+      "code": "-- Create Hudi table\nCREATE TABLE hudi_table (\n  id BIGINT,\n  name STRING,\n  price DECIMAL(10, 2),\n  ts TIMESTAMP(3),\n  `partition` STRING\n) PARTITIONED BY (`partition`)\nWITH (\n  'connector' = 'hudi',\n  'path' = 's3://bucket/path/to/table',\n  'table.type' = 'MERGE_ON_READ',\n  'write.operation' = 'upsert',\n  'hoodie.datasource.write.recordkey.field' = 'id',\n  'hoodie.datasource.write.precombine.field' = 'ts'\n);\n\n-- Insert or update data\nINSERT INTO hudi_table\nSELECT id, name, price, ts, DATE_FORMAT(ts, 'yyyy-MM-dd') as `partition`\nFROM source_table;"
+    },
+    {
+      "title": "Incremental Query",
+      "language": "scala",
+      "code": "// Read incremental data since specific commit\nval incrementalDF = spark.read.format(\"hudi\").\n  option(QUERY_TYPE_OPT_KEY, QUERY_TYPE_INCREMENTAL_OPT_VAL).\n  option(BEGIN_INSTANTTIME_OPT_KEY, \"20210728141108\").\n  load(basePath)\n\nincrementalDF.show()"
+    },
+    {
+      "title": "Time Travel Query",
+      "language": "sql",
+      "code": "-- Query data as of specific timestamp\nSELECT * FROM hudi_table\nTIMESTAMP AS OF '2021-07-28 14:11:08'\nWHERE id = 1;\n\n-- Query data as of specific commit\nSELECT * FROM hudi_table\nVERSION AS OF '20210728141108'\nWHERE id = 1;"
+    },
+    {
+      "title": "Async Compaction (MOR Tables)",
+      "language": "scala",
+      "code": "// Schedule compaction\ndf.write.format(\"hudi\").\n  options(writeConfigs).\n  option(\"hoodie.compact.inline\", \"false\").\n  option(\"hoodie.compact.schedule.inline\", \"true\").\n  option(\"hoodie.compaction.strategy\", \"org.apache.hudi.table.action.compact.strategy.LogFileSizeBasedCompactionStrategy\").\n  mode(Append).\n  save(basePath)\n\n// Run compaction asynchronously\nval client = createHoodieClient(spark.sparkContext, basePath)\nclient.scheduleCompactionAtInstant(HoodieActiveTimeline.createNewInstantTime(), Option.empty())"
+    },
+    {
+      "title": "Clustering for Large Tables",
+      "language": "scala",
+      "code": "// Enable inline clustering\ndf.write.format(\"hudi\").\n  options(writeConfigs).\n  option(\"hoodie.clustering.inline\", \"true\").\n  option(\"hoodie.clustering.inline.max.commits\", \"4\").\n  option(\"hoodie.clustering.plan.strategy.target.file.max.bytes\", \"1073741824\").\n  option(\"hoodie.clustering.plan.strategy.small.file.limit\", \"629145600\").\n  mode(Append).\n  save(basePath)"
+    }
+  ],
+  
+  "best_practices": [
+    {
+      "category": "Table Type Selection",
+      "practice": "Use COW for read-heavy workloads with fewer writes; use MOR for write-heavy workloads requiring fast ingestion"
+    },
+    {
+      "category": "Partitioning",
+      "practice": "Choose partition granularity based on query patterns; avoid too many small partitions or too few large partitions"
+    },
+    {
+      "category": "Indexing",
+      "practice": "Use Bloom Index for large datasets; consider HBase Index for global uniqueness; try Bucket Index for extremely large scale"
+    },
+    {
+      "category": "Compaction",
+      "practice": "For MOR tables, tune compaction trigger based on write frequency and query latency requirements"
+    },
+    {
+      "category": "Clustering",
+      "practice": "Enable clustering for large tables to optimize data layout and improve query performance"
+    },
+    {
+      "category": "Metadata Table",
+      "practice": "Always enable metadata table for improved listing and query planning performance"
+    },
+    {
+      "category": "Monitoring",
+      "practice": "Monitor table metrics: file sizes, compaction lag, write amplification, and query performance"
+    },
+    {
+      "category": "Schema Evolution",
+      "practice": "Plan schema changes carefully; test in staging environment before production deployment"
+    }
+  ],
+  
+  "common_patterns": [
+    {
+      "name": "CDC Pipeline",
+      "description": "Capture database changes and stream to Hudi data lake",
+      "use_case": "Real-time data synchronization from OLTP to OLAP"
+    },
+    {
+      "name": "Late-Arriving Data",
+      "description": "Handle out-of-order data with proper precombine field",
+      "use_case": "IoT data streams with network delays"
+    },
+    {
+      "name": "Slowly Changing Dimensions",
+      "description": "Track historical changes in dimension tables",
+      "use_case": "Customer profile updates, product catalog changes"
+    },
+    {
+      "name": "Data Lake to Data Warehouse",
+      "description": "Use Hudi as intermediate layer for data transformation",
+      "use_case": "ELT pipelines with incremental processing"
+    }
+  ],
+  
+  "troubleshooting": {
+    "common_issues": [
+      {
+        "issue": "Small file problem",
+        "symptoms": "Many small files degrading query performance",
+        "solution": "Enable clustering or adjust file sizing configs"
+      },
+      {
+        "issue": "Write conflicts",
+        "symptoms": "Concurrent writes failing with conflicts",
+        "solution": "Use optimistic concurrency control or partition-level locking"
+      },
+      {
+        "issue": "Slow queries",
+        "symptoms": "Query performance degradation over time",
+        "solution": "Check compaction lag, enable metadata table, optimize clustering"
+      },
+      {
+        "issue": "High storage costs",
+        "symptoms": "Storage growing faster than data size",
+        "solution": "Tune retention policies, enable cleaning service, check archiving"
+      }
+    ]
+  },
+  
+  "configuration_templates": {
+    "production_spark": {
+      "description": "Production-ready Spark configuration for Hudi",
+      "config": {
+        "hoodie.metadata.enable": "true",
+        "hoodie.datasource.write.recordkey.field": "uuid",
+        "hoodie.datasource.write.partitionpath.field": "partitionpath",
+        "hoodie.datasource.write.precombine.field": "ts",
+        "hoodie.cleaner.policy": "KEEP_LATEST_COMMITS",
+        "hoodie.cleaner.commits.retained": "10",
+        "hoodie.keep.min.commits": "20",
+        "hoodie.keep.max.commits": "30",
+        "hoodie.write.concurrency.mode": "optimistic_concurrency_control",
+        "hoodie.cleaner.policy.failed.writes": "EAGER"
+      }
+    },
+    "production_flink": {
+      "description": "Production-ready Flink configuration for Hudi",
+      "config": {
+        "write.tasks": "4",
+        "write.rate.limit": "2000",
+        "compaction.async.enabled": "true",
+        "compaction.trigger.strategy": "num_commits",
+        "compaction.delta_commits": "5",
+        "read.streaming.enabled": "true",
+        "read.streaming.check-interval": "60"
+      }
+    }
+  },
+  
+  "references": [
+    {
+      "title": "Official Documentation",
+      "url": "https://hudi.apache.org/docs/overview"
+    },
+    {
+      "title": "Hudi Resources Repository",
+      "url": "https://github.com/leesf/hudi-resources"
+    },
+    {
+      "title": "Best Practices Guide",
+      "url": "https://hudi.apache.org/docs/deployment"
+    }
+  ]
+}

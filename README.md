@@ -1,5 +1,17 @@
 ![poweredby](https://raw.githubusercontent.com/leesf/hudi-resources/master/poweredby-0801.png)
 
+## Claude Code 自定义技能注入指南
+
+[How to Inject Custom Skills into Claude Code Locally (English)](claude-code-custom-skills.md)
+
+[如何在本地向 Claude Code 注入自定义技能 (中文)](claude-code-custom-skills-zh.md)
+
+本指南详细说明了如何在本地向 Claude Code 注入自定义技能，包括：
+- 技能定义和配置
+- Apache Hudi 专家技能示例
+- 加载和管理技能的多种方法
+- 最佳实践和故障排除
+
 ## Apache Hudi落地解读
 
 [Apache Hudi 1.1 前瞻：Flink 流式入湖的极致优化](https://mp.weixin.qq.com/s/ek80Fzw30FOawk1qeWxtCw)
