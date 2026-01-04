@@ -2,15 +2,36 @@
 
 ## Claude Code 自定义技能注入指南
 
-[How to Inject Custom Skills into Claude Code Locally (English)](claude-code-custom-skills.md)
+**🚀 Quick Start**: [5-Minute Setup Guide](QUICKSTART.md)
 
-[如何在本地向 Claude Code 注入自定义技能 (中文)](claude-code-custom-skills-zh.md)
+**📖 Full Documentation**:
+- [How to Inject Custom Skills into Claude Code Locally (English)](claude-code-custom-skills.md)
+- [如何在本地向 Claude Code 注入自定义技能 (中文)](claude-code-custom-skills-zh.md)
+
+**💡 Example Skills**: [examples/](examples/)
+- Apache Hudi Expert Skill with comprehensive knowledge and code examples
 
 本指南详细说明了如何在本地向 Claude Code 注入自定义技能，包括：
 - 技能定义和配置
 - Apache Hudi 专家技能示例
 - 加载和管理技能的多种方法
 - 最佳实践和故障排除
+
+### 快速开始
+
+```bash
+# 1. 复制示例技能文件
+mkdir -p ~/.config/claude-code/skills
+cp examples/hudi-expert-skill.json ~/.config/claude-code/skills/
+
+# 2. 启用技能
+echo '{"skills": {"enabled": true, "auto_load": true, "skills": ["apache-hudi-expert"]}}' > ~/.config/claude-code/config.json
+
+# 3. 启动 Claude Code
+claude-code
+```
+
+详细步骤请参考 [QUICKSTART.md](QUICKSTART.md)
 
 ## Apache Hudi落地解读
 
