@@ -94,7 +94,7 @@
     {
       "title": "Create COW Table with Spark",
       "language": "scala",
-      "code": "import org.apache.hudi.QuickstartUtils._\nimport scala.collection.JavaConversions._\nimport org.apache.spark.sql.SaveMode._\nimport org.apache.hudi.DataSourceWriteOptions._\nimport org.apache.hudi.config.HoodieWriteConfig._\n\nval tableName = \"hudi_trips_cow\"\nval basePath = \"s3://bucket/path/to/table\"\n\nval inserts = convertToStringList(dataGen.generateInserts(10))\nval df = spark.read.json(spark.sparkContext.parallelize(inserts, 2))\n\ndf.write.format(\"hudi\").\n  options(getQuickstartWriteConfigs).\n  option(PRECOMBINE_FIELD_OPT_KEY, \"ts\").\n  option(RECORDKEY_FIELD_OPT_KEY, \"uuid\").\n  option(PARTITIONPATH_FIELD_OPT_KEY, \"partitionpath\").\n  option(TABLE_NAME, tableName).\n  mode(Overwrite).\n  save(basePath)"
+      "code": "import org.apache.hudi.QuickstartUtils._\nimport scala.jdk.CollectionConverters._\nimport org.apache.spark.sql.SaveMode._\nimport org.apache.hudi.DataSourceWriteOptions._\nimport org.apache.hudi.config.HoodieWriteConfig._\n\nval tableName = \"hudi_trips_cow\"\nval basePath = \"s3://bucket/path/to/table\"\n\nval inserts = convertToStringList(dataGen.generateInserts(10))\nval df = spark.read.json(spark.sparkContext.parallelize(inserts.asScala.toSeq, 2))\n\ndf.write.format(\"hudi\").\n  options(getQuickstartWriteConfigs).\n  option(PRECOMBINE_FIELD_OPT_KEY, \"ts\").\n  option(RECORDKEY_FIELD_OPT_KEY, \"uuid\").\n  option(PARTITIONPATH_FIELD_OPT_KEY, \"partitionpath\").\n  option(TABLE_NAME, tableName).\n  mode(Overwrite).\n  save(basePath)"
     },
     {
       "title": "Upsert with Flink SQL",
