@@ -251,8 +251,7 @@ Complete example for Hudi expertise:
   "description": "Comprehensive Apache Hudi data lake expertise",
   "type": "knowledge",
   "author": "Hudi Community",
-  "
-": ["data-lake", "streaming", "big-data"],
+  "tags": ["data-lake", "streaming", "big-data"],
   
   "capabilities": {
     "hudi_operations": {
